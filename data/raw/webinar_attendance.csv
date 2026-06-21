@@ -1,0 +1,901 @@
+webinar_id,student_id,webinar_name,attended
+WB01,ST101,AI Workshop,Yes
+WB02,ST101,Data Science Bootcamp,No
+WB03,ST101,Career Readiness,Yes
+WB04,ST101,Resume Building,Yes
+WB05,ST101,Interview Prep,Yes
+WB06,ST101,Capstone Showcase,Yes
+WB01,ST102,AI Workshop,Yes
+WB02,ST102,Data Science Bootcamp,No
+WB03,ST102,Career Readiness,Yes
+WB04,ST102,Resume Building,Yes
+WB05,ST102,Interview Prep,Yes
+WB06,ST102,Capstone Showcase,Yes
+WB01,ST103,AI Workshop,No
+WB02,ST103,Data Science Bootcamp,Yes
+WB03,ST103,Career Readiness,No
+WB04,ST103,Resume Building,Yes
+WB05,ST103,Interview Prep,Yes
+WB06,ST103,Capstone Showcase,Yes
+WB01,ST104,AI Workshop,No
+WB02,ST104,Data Science Bootcamp,Yes
+WB03,ST104,Career Readiness,No
+WB04,ST104,Resume Building,Yes
+WB05,ST104,Interview Prep,No
+WB06,ST104,Capstone Showcase,No
+WB01,ST105,AI Workshop,Yes
+WB02,ST105,Data Science Bootcamp,Yes
+WB03,ST105,Career Readiness,Yes
+WB04,ST105,Resume Building,Yes
+WB05,ST105,Interview Prep,Yes
+WB06,ST105,Capstone Showcase,Yes
+WB01,ST106,AI Workshop,No
+WB02,ST106,Data Science Bootcamp,No
+WB03,ST106,Career Readiness,No
+WB04,ST106,Resume Building,Yes
+WB05,ST106,Interview Prep,No
+WB06,ST106,Capstone Showcase,Yes
+WB01,ST107,AI Workshop,No
+WB02,ST107,Data Science Bootcamp,Yes
+WB03,ST107,Career Readiness,Yes
+WB04,ST107,Resume Building,Yes
+WB05,ST107,Interview Prep,Yes
+WB06,ST107,Capstone Showcase,Yes
+WB01,ST108,AI Workshop,No
+WB02,ST108,Data Science Bootcamp,No
+WB03,ST108,Career Readiness,Yes
+WB04,ST108,Resume Building,No
+WB05,ST108,Interview Prep,No
+WB06,ST108,Capstone Showcase,Yes
+WB01,ST109,AI Workshop,Yes
+WB02,ST109,Data Science Bootcamp,No
+WB03,ST109,Career Readiness,No
+WB04,ST109,Resume Building,Yes
+WB05,ST109,Interview Prep,Yes
+WB06,ST109,Capstone Showcase,Yes
+WB01,ST110,AI Workshop,Yes
+WB02,ST110,Data Science Bootcamp,Yes
+WB03,ST110,Career Readiness,No
+WB04,ST110,Resume Building,No
+WB05,ST110,Interview Prep,No
+WB06,ST110,Capstone Showcase,Yes
+WB01,ST111,AI Workshop,No
+WB02,ST111,Data Science Bootcamp,Yes
+WB03,ST111,Career Readiness,Yes
+WB04,ST111,Resume Building,Yes
+WB05,ST111,Interview Prep,Yes
+WB06,ST111,Capstone Showcase,No
+WB01,ST112,AI Workshop,No
+WB02,ST112,Data Science Bootcamp,No
+WB03,ST112,Career Readiness,Yes
+WB04,ST112,Resume Building,No
+WB05,ST112,Interview Prep,No
+WB06,ST112,Capstone Showcase,No
+WB01,ST113,AI Workshop,Yes
+WB02,ST113,Data Science Bootcamp,Yes
+WB03,ST113,Career Readiness,Yes
+WB04,ST113,Resume Building,Yes
+WB05,ST113,Interview Prep,Yes
+WB06,ST113,Capstone Showcase,Yes
+WB01,ST114,AI Workshop,Yes
+WB02,ST114,Data Science Bootcamp,No
+WB03,ST114,Career Readiness,Yes
+WB04,ST114,Resume Building,No
+WB05,ST114,Interview Prep,Yes
+WB06,ST114,Capstone Showcase,Yes
+WB01,ST115,AI Workshop,No
+WB02,ST115,Data Science Bootcamp,No
+WB03,ST115,Career Readiness,No
+WB04,ST115,Resume Building,No
+WB05,ST115,Interview Prep,No
+WB06,ST115,Capstone Showcase,No
+WB01,ST116,AI Workshop,Yes
+WB02,ST116,Data Science Bootcamp,Yes
+WB03,ST116,Career Readiness,Yes
+WB04,ST116,Resume Building,Yes
+WB05,ST116,Interview Prep,Yes
+WB06,ST116,Capstone Showcase,Yes
+WB01,ST117,AI Workshop,No
+WB02,ST117,Data Science Bootcamp,Yes
+WB03,ST117,Career Readiness,Yes
+WB04,ST117,Resume Building,Yes
+WB05,ST117,Interview Prep,No
+WB06,ST117,Capstone Showcase,No
+WB01,ST118,AI Workshop,No
+WB02,ST118,Data Science Bootcamp,Yes
+WB03,ST118,Career Readiness,Yes
+WB04,ST118,Resume Building,Yes
+WB05,ST118,Interview Prep,Yes
+WB06,ST118,Capstone Showcase,No
+WB01,ST119,AI Workshop,Yes
+WB02,ST119,Data Science Bootcamp,No
+WB03,ST119,Career Readiness,No
+WB04,ST119,Resume Building,No
+WB05,ST119,Interview Prep,Yes
+WB06,ST119,Capstone Showcase,No
+WB01,ST120,AI Workshop,Yes
+WB02,ST120,Data Science Bootcamp,Yes
+WB03,ST120,Career Readiness,No
+WB04,ST120,Resume Building,No
+WB05,ST120,Interview Prep,No
+WB06,ST120,Capstone Showcase,Yes
+WB01,ST121,AI Workshop,No
+WB02,ST121,Data Science Bootcamp,No
+WB03,ST121,Career Readiness,Yes
+WB04,ST121,Resume Building,No
+WB05,ST121,Interview Prep,No
+WB06,ST121,Capstone Showcase,Yes
+WB01,ST122,AI Workshop,Yes
+WB02,ST122,Data Science Bootcamp,Yes
+WB03,ST122,Career Readiness,Yes
+WB04,ST122,Resume Building,Yes
+WB05,ST122,Interview Prep,No
+WB06,ST122,Capstone Showcase,No
+WB01,ST123,AI Workshop,Yes
+WB02,ST123,Data Science Bootcamp,No
+WB03,ST123,Career Readiness,No
+WB04,ST123,Resume Building,No
+WB05,ST123,Interview Prep,No
+WB06,ST123,Capstone Showcase,Yes
+WB01,ST124,AI Workshop,No
+WB02,ST124,Data Science Bootcamp,No
+WB03,ST124,Career Readiness,Yes
+WB04,ST124,Resume Building,No
+WB05,ST124,Interview Prep,No
+WB06,ST124,Capstone Showcase,Yes
+WB01,ST125,AI Workshop,No
+WB02,ST125,Data Science Bootcamp,No
+WB03,ST125,Career Readiness,No
+WB04,ST125,Resume Building,No
+WB05,ST125,Interview Prep,No
+WB06,ST125,Capstone Showcase,No
+WB01,ST126,AI Workshop,No
+WB02,ST126,Data Science Bootcamp,Yes
+WB03,ST126,Career Readiness,No
+WB04,ST126,Resume Building,Yes
+WB05,ST126,Interview Prep,Yes
+WB06,ST126,Capstone Showcase,No
+WB01,ST127,AI Workshop,No
+WB02,ST127,Data Science Bootcamp,Yes
+WB03,ST127,Career Readiness,Yes
+WB04,ST127,Resume Building,Yes
+WB05,ST127,Interview Prep,Yes
+WB06,ST127,Capstone Showcase,No
+WB01,ST128,AI Workshop,No
+WB02,ST128,Data Science Bootcamp,No
+WB03,ST128,Career Readiness,No
+WB04,ST128,Resume Building,Yes
+WB05,ST128,Interview Prep,No
+WB06,ST128,Capstone Showcase,Yes
+WB01,ST129,AI Workshop,Yes
+WB02,ST129,Data Science Bootcamp,No
+WB03,ST129,Career Readiness,No
+WB04,ST129,Resume Building,No
+WB05,ST129,Interview Prep,Yes
+WB06,ST129,Capstone Showcase,No
+WB01,ST130,AI Workshop,Yes
+WB02,ST130,Data Science Bootcamp,Yes
+WB03,ST130,Career Readiness,Yes
+WB04,ST130,Resume Building,No
+WB05,ST130,Interview Prep,No
+WB06,ST130,Capstone Showcase,No
+WB01,ST131,AI Workshop,Yes
+WB02,ST131,Data Science Bootcamp,No
+WB03,ST131,Career Readiness,No
+WB04,ST131,Resume Building,No
+WB05,ST131,Interview Prep,No
+WB06,ST131,Capstone Showcase,No
+WB01,ST132,AI Workshop,No
+WB02,ST132,Data Science Bootcamp,Yes
+WB03,ST132,Career Readiness,No
+WB04,ST132,Resume Building,No
+WB05,ST132,Interview Prep,Yes
+WB06,ST132,Capstone Showcase,No
+WB01,ST133,AI Workshop,Yes
+WB02,ST133,Data Science Bootcamp,Yes
+WB03,ST133,Career Readiness,No
+WB04,ST133,Resume Building,Yes
+WB05,ST133,Interview Prep,Yes
+WB06,ST133,Capstone Showcase,No
+WB01,ST134,AI Workshop,No
+WB02,ST134,Data Science Bootcamp,No
+WB03,ST134,Career Readiness,No
+WB04,ST134,Resume Building,No
+WB05,ST134,Interview Prep,No
+WB06,ST134,Capstone Showcase,No
+WB01,ST135,AI Workshop,No
+WB02,ST135,Data Science Bootcamp,No
+WB03,ST135,Career Readiness,No
+WB04,ST135,Resume Building,No
+WB05,ST135,Interview Prep,No
+WB06,ST135,Capstone Showcase,No
+WB01,ST136,AI Workshop,Yes
+WB02,ST136,Data Science Bootcamp,Yes
+WB03,ST136,Career Readiness,Yes
+WB04,ST136,Resume Building,No
+WB05,ST136,Interview Prep,Yes
+WB06,ST136,Capstone Showcase,No
+WB01,ST137,AI Workshop,Yes
+WB02,ST137,Data Science Bootcamp,No
+WB03,ST137,Career Readiness,Yes
+WB04,ST137,Resume Building,Yes
+WB05,ST137,Interview Prep,Yes
+WB06,ST137,Capstone Showcase,Yes
+WB01,ST138,AI Workshop,Yes
+WB02,ST138,Data Science Bootcamp,Yes
+WB03,ST138,Career Readiness,Yes
+WB04,ST138,Resume Building,Yes
+WB05,ST138,Interview Prep,Yes
+WB06,ST138,Capstone Showcase,No
+WB01,ST139,AI Workshop,Yes
+WB02,ST139,Data Science Bootcamp,Yes
+WB03,ST139,Career Readiness,Yes
+WB04,ST139,Resume Building,Yes
+WB05,ST139,Interview Prep,Yes
+WB06,ST139,Capstone Showcase,No
+WB01,ST140,AI Workshop,No
+WB02,ST140,Data Science Bootcamp,No
+WB03,ST140,Career Readiness,No
+WB04,ST140,Resume Building,No
+WB05,ST140,Interview Prep,No
+WB06,ST140,Capstone Showcase,No
+WB01,ST141,AI Workshop,No
+WB02,ST141,Data Science Bootcamp,No
+WB03,ST141,Career Readiness,No
+WB04,ST141,Resume Building,No
+WB05,ST141,Interview Prep,No
+WB06,ST141,Capstone Showcase,Yes
+WB01,ST142,AI Workshop,No
+WB02,ST142,Data Science Bootcamp,Yes
+WB03,ST142,Career Readiness,No
+WB04,ST142,Resume Building,No
+WB05,ST142,Interview Prep,Yes
+WB06,ST142,Capstone Showcase,No
+WB01,ST143,AI Workshop,Yes
+WB02,ST143,Data Science Bootcamp,Yes
+WB03,ST143,Career Readiness,Yes
+WB04,ST143,Resume Building,Yes
+WB05,ST143,Interview Prep,Yes
+WB06,ST143,Capstone Showcase,Yes
+WB01,ST144,AI Workshop,No
+WB02,ST144,Data Science Bootcamp,No
+WB03,ST144,Career Readiness,Yes
+WB04,ST144,Resume Building,No
+WB05,ST144,Interview Prep,No
+WB06,ST144,Capstone Showcase,No
+WB01,ST145,AI Workshop,No
+WB02,ST145,Data Science Bootcamp,Yes
+WB03,ST145,Career Readiness,No
+WB04,ST145,Resume Building,Yes
+WB05,ST145,Interview Prep,Yes
+WB06,ST145,Capstone Showcase,Yes
+WB01,ST146,AI Workshop,No
+WB02,ST146,Data Science Bootcamp,Yes
+WB03,ST146,Career Readiness,Yes
+WB04,ST146,Resume Building,No
+WB05,ST146,Interview Prep,No
+WB06,ST146,Capstone Showcase,Yes
+WB01,ST147,AI Workshop,No
+WB02,ST147,Data Science Bootcamp,No
+WB03,ST147,Career Readiness,No
+WB04,ST147,Resume Building,Yes
+WB05,ST147,Interview Prep,No
+WB06,ST147,Capstone Showcase,No
+WB01,ST148,AI Workshop,Yes
+WB02,ST148,Data Science Bootcamp,No
+WB03,ST148,Career Readiness,Yes
+WB04,ST148,Resume Building,Yes
+WB05,ST148,Interview Prep,No
+WB06,ST148,Capstone Showcase,No
+WB01,ST149,AI Workshop,Yes
+WB02,ST149,Data Science Bootcamp,Yes
+WB03,ST149,Career Readiness,No
+WB04,ST149,Resume Building,No
+WB05,ST149,Interview Prep,Yes
+WB06,ST149,Capstone Showcase,No
+WB01,ST150,AI Workshop,No
+WB02,ST150,Data Science Bootcamp,No
+WB03,ST150,Career Readiness,No
+WB04,ST150,Resume Building,No
+WB05,ST150,Interview Prep,No
+WB06,ST150,Capstone Showcase,No
+WB01,ST151,AI Workshop,Yes
+WB02,ST151,Data Science Bootcamp,Yes
+WB03,ST151,Career Readiness,Yes
+WB04,ST151,Resume Building,Yes
+WB05,ST151,Interview Prep,No
+WB06,ST151,Capstone Showcase,Yes
+WB01,ST152,AI Workshop,Yes
+WB02,ST152,Data Science Bootcamp,Yes
+WB03,ST152,Career Readiness,No
+WB04,ST152,Resume Building,Yes
+WB05,ST152,Interview Prep,Yes
+WB06,ST152,Capstone Showcase,Yes
+WB01,ST153,AI Workshop,No
+WB02,ST153,Data Science Bootcamp,No
+WB03,ST153,Career Readiness,Yes
+WB04,ST153,Resume Building,No
+WB05,ST153,Interview Prep,Yes
+WB06,ST153,Capstone Showcase,Yes
+WB01,ST154,AI Workshop,Yes
+WB02,ST154,Data Science Bootcamp,Yes
+WB03,ST154,Career Readiness,No
+WB04,ST154,Resume Building,No
+WB05,ST154,Interview Prep,No
+WB06,ST154,Capstone Showcase,No
+WB01,ST155,AI Workshop,Yes
+WB02,ST155,Data Science Bootcamp,Yes
+WB03,ST155,Career Readiness,Yes
+WB04,ST155,Resume Building,Yes
+WB05,ST155,Interview Prep,Yes
+WB06,ST155,Capstone Showcase,No
+WB01,ST156,AI Workshop,No
+WB02,ST156,Data Science Bootcamp,Yes
+WB03,ST156,Career Readiness,No
+WB04,ST156,Resume Building,No
+WB05,ST156,Interview Prep,No
+WB06,ST156,Capstone Showcase,Yes
+WB01,ST157,AI Workshop,No
+WB02,ST157,Data Science Bootcamp,Yes
+WB03,ST157,Career Readiness,No
+WB04,ST157,Resume Building,No
+WB05,ST157,Interview Prep,No
+WB06,ST157,Capstone Showcase,No
+WB01,ST158,AI Workshop,Yes
+WB02,ST158,Data Science Bootcamp,No
+WB03,ST158,Career Readiness,Yes
+WB04,ST158,Resume Building,No
+WB05,ST158,Interview Prep,No
+WB06,ST158,Capstone Showcase,Yes
+WB01,ST159,AI Workshop,Yes
+WB02,ST159,Data Science Bootcamp,No
+WB03,ST159,Career Readiness,No
+WB04,ST159,Resume Building,Yes
+WB05,ST159,Interview Prep,No
+WB06,ST159,Capstone Showcase,No
+WB01,ST160,AI Workshop,No
+WB02,ST160,Data Science Bootcamp,Yes
+WB03,ST160,Career Readiness,No
+WB04,ST160,Resume Building,Yes
+WB05,ST160,Interview Prep,Yes
+WB06,ST160,Capstone Showcase,No
+WB01,ST161,AI Workshop,No
+WB02,ST161,Data Science Bootcamp,No
+WB03,ST161,Career Readiness,No
+WB04,ST161,Resume Building,No
+WB05,ST161,Interview Prep,Yes
+WB06,ST161,Capstone Showcase,No
+WB01,ST162,AI Workshop,Yes
+WB02,ST162,Data Science Bootcamp,Yes
+WB03,ST162,Career Readiness,No
+WB04,ST162,Resume Building,Yes
+WB05,ST162,Interview Prep,Yes
+WB06,ST162,Capstone Showcase,Yes
+WB01,ST163,AI Workshop,Yes
+WB02,ST163,Data Science Bootcamp,Yes
+WB03,ST163,Career Readiness,No
+WB04,ST163,Resume Building,Yes
+WB05,ST163,Interview Prep,Yes
+WB06,ST163,Capstone Showcase,No
+WB01,ST164,AI Workshop,No
+WB02,ST164,Data Science Bootcamp,No
+WB03,ST164,Career Readiness,No
+WB04,ST164,Resume Building,Yes
+WB05,ST164,Interview Prep,No
+WB06,ST164,Capstone Showcase,No
+WB01,ST165,AI Workshop,Yes
+WB02,ST165,Data Science Bootcamp,No
+WB03,ST165,Career Readiness,No
+WB04,ST165,Resume Building,No
+WB05,ST165,Interview Prep,No
+WB06,ST165,Capstone Showcase,No
+WB01,ST166,AI Workshop,Yes
+WB02,ST166,Data Science Bootcamp,No
+WB03,ST166,Career Readiness,Yes
+WB04,ST166,Resume Building,Yes
+WB05,ST166,Interview Prep,Yes
+WB06,ST166,Capstone Showcase,No
+WB01,ST167,AI Workshop,No
+WB02,ST167,Data Science Bootcamp,No
+WB03,ST167,Career Readiness,Yes
+WB04,ST167,Resume Building,No
+WB05,ST167,Interview Prep,No
+WB06,ST167,Capstone Showcase,No
+WB01,ST168,AI Workshop,No
+WB02,ST168,Data Science Bootcamp,No
+WB03,ST168,Career Readiness,No
+WB04,ST168,Resume Building,No
+WB05,ST168,Interview Prep,Yes
+WB06,ST168,Capstone Showcase,No
+WB01,ST169,AI Workshop,Yes
+WB02,ST169,Data Science Bootcamp,Yes
+WB03,ST169,Career Readiness,No
+WB04,ST169,Resume Building,No
+WB05,ST169,Interview Prep,Yes
+WB06,ST169,Capstone Showcase,No
+WB01,ST170,AI Workshop,No
+WB02,ST170,Data Science Bootcamp,Yes
+WB03,ST170,Career Readiness,Yes
+WB04,ST170,Resume Building,No
+WB05,ST170,Interview Prep,No
+WB06,ST170,Capstone Showcase,No
+WB01,ST171,AI Workshop,Yes
+WB02,ST171,Data Science Bootcamp,Yes
+WB03,ST171,Career Readiness,Yes
+WB04,ST171,Resume Building,Yes
+WB05,ST171,Interview Prep,No
+WB06,ST171,Capstone Showcase,Yes
+WB01,ST172,AI Workshop,No
+WB02,ST172,Data Science Bootcamp,No
+WB03,ST172,Career Readiness,Yes
+WB04,ST172,Resume Building,Yes
+WB05,ST172,Interview Prep,Yes
+WB06,ST172,Capstone Showcase,No
+WB01,ST173,AI Workshop,No
+WB02,ST173,Data Science Bootcamp,No
+WB03,ST173,Career Readiness,Yes
+WB04,ST173,Resume Building,Yes
+WB05,ST173,Interview Prep,No
+WB06,ST173,Capstone Showcase,No
+WB01,ST174,AI Workshop,No
+WB02,ST174,Data Science Bootcamp,Yes
+WB03,ST174,Career Readiness,Yes
+WB04,ST174,Resume Building,Yes
+WB05,ST174,Interview Prep,Yes
+WB06,ST174,Capstone Showcase,Yes
+WB01,ST175,AI Workshop,Yes
+WB02,ST175,Data Science Bootcamp,Yes
+WB03,ST175,Career Readiness,No
+WB04,ST175,Resume Building,No
+WB05,ST175,Interview Prep,No
+WB06,ST175,Capstone Showcase,No
+WB01,ST176,AI Workshop,No
+WB02,ST176,Data Science Bootcamp,No
+WB03,ST176,Career Readiness,Yes
+WB04,ST176,Resume Building,No
+WB05,ST176,Interview Prep,No
+WB06,ST176,Capstone Showcase,Yes
+WB01,ST177,AI Workshop,No
+WB02,ST177,Data Science Bootcamp,No
+WB03,ST177,Career Readiness,No
+WB04,ST177,Resume Building,Yes
+WB05,ST177,Interview Prep,Yes
+WB06,ST177,Capstone Showcase,Yes
+WB01,ST178,AI Workshop,No
+WB02,ST178,Data Science Bootcamp,No
+WB03,ST178,Career Readiness,No
+WB04,ST178,Resume Building,Yes
+WB05,ST178,Interview Prep,No
+WB06,ST178,Capstone Showcase,No
+WB01,ST179,AI Workshop,Yes
+WB02,ST179,Data Science Bootcamp,Yes
+WB03,ST179,Career Readiness,No
+WB04,ST179,Resume Building,No
+WB05,ST179,Interview Prep,Yes
+WB06,ST179,Capstone Showcase,Yes
+WB01,ST180,AI Workshop,Yes
+WB02,ST180,Data Science Bootcamp,Yes
+WB03,ST180,Career Readiness,Yes
+WB04,ST180,Resume Building,Yes
+WB05,ST180,Interview Prep,Yes
+WB06,ST180,Capstone Showcase,Yes
+WB01,ST181,AI Workshop,No
+WB02,ST181,Data Science Bootcamp,Yes
+WB03,ST181,Career Readiness,Yes
+WB04,ST181,Resume Building,Yes
+WB05,ST181,Interview Prep,No
+WB06,ST181,Capstone Showcase,Yes
+WB01,ST182,AI Workshop,No
+WB02,ST182,Data Science Bootcamp,Yes
+WB03,ST182,Career Readiness,No
+WB04,ST182,Resume Building,Yes
+WB05,ST182,Interview Prep,No
+WB06,ST182,Capstone Showcase,No
+WB01,ST183,AI Workshop,Yes
+WB02,ST183,Data Science Bootcamp,Yes
+WB03,ST183,Career Readiness,Yes
+WB04,ST183,Resume Building,No
+WB05,ST183,Interview Prep,No
+WB06,ST183,Capstone Showcase,No
+WB01,ST184,AI Workshop,Yes
+WB02,ST184,Data Science Bootcamp,Yes
+WB03,ST184,Career Readiness,Yes
+WB04,ST184,Resume Building,Yes
+WB05,ST184,Interview Prep,Yes
+WB06,ST184,Capstone Showcase,Yes
+WB01,ST185,AI Workshop,Yes
+WB02,ST185,Data Science Bootcamp,No
+WB03,ST185,Career Readiness,No
+WB04,ST185,Resume Building,No
+WB05,ST185,Interview Prep,No
+WB06,ST185,Capstone Showcase,No
+WB01,ST186,AI Workshop,Yes
+WB02,ST186,Data Science Bootcamp,Yes
+WB03,ST186,Career Readiness,Yes
+WB04,ST186,Resume Building,No
+WB05,ST186,Interview Prep,No
+WB06,ST186,Capstone Showcase,No
+WB01,ST187,AI Workshop,No
+WB02,ST187,Data Science Bootcamp,No
+WB03,ST187,Career Readiness,No
+WB04,ST187,Resume Building,Yes
+WB05,ST187,Interview Prep,Yes
+WB06,ST187,Capstone Showcase,No
+WB01,ST188,AI Workshop,Yes
+WB02,ST188,Data Science Bootcamp,No
+WB03,ST188,Career Readiness,No
+WB04,ST188,Resume Building,No
+WB05,ST188,Interview Prep,No
+WB06,ST188,Capstone Showcase,No
+WB01,ST189,AI Workshop,No
+WB02,ST189,Data Science Bootcamp,Yes
+WB03,ST189,Career Readiness,Yes
+WB04,ST189,Resume Building,No
+WB05,ST189,Interview Prep,Yes
+WB06,ST189,Capstone Showcase,Yes
+WB01,ST190,AI Workshop,Yes
+WB02,ST190,Data Science Bootcamp,No
+WB03,ST190,Career Readiness,No
+WB04,ST190,Resume Building,No
+WB05,ST190,Interview Prep,Yes
+WB06,ST190,Capstone Showcase,No
+WB01,ST191,AI Workshop,No
+WB02,ST191,Data Science Bootcamp,No
+WB03,ST191,Career Readiness,Yes
+WB04,ST191,Resume Building,Yes
+WB05,ST191,Interview Prep,Yes
+WB06,ST191,Capstone Showcase,Yes
+WB01,ST192,AI Workshop,Yes
+WB02,ST192,Data Science Bootcamp,Yes
+WB03,ST192,Career Readiness,Yes
+WB04,ST192,Resume Building,No
+WB05,ST192,Interview Prep,No
+WB06,ST192,Capstone Showcase,No
+WB01,ST193,AI Workshop,No
+WB02,ST193,Data Science Bootcamp,Yes
+WB03,ST193,Career Readiness,No
+WB04,ST193,Resume Building,Yes
+WB05,ST193,Interview Prep,No
+WB06,ST193,Capstone Showcase,Yes
+WB01,ST194,AI Workshop,Yes
+WB02,ST194,Data Science Bootcamp,No
+WB03,ST194,Career Readiness,Yes
+WB04,ST194,Resume Building,No
+WB05,ST194,Interview Prep,No
+WB06,ST194,Capstone Showcase,Yes
+WB01,ST195,AI Workshop,No
+WB02,ST195,Data Science Bootcamp,No
+WB03,ST195,Career Readiness,No
+WB04,ST195,Resume Building,Yes
+WB05,ST195,Interview Prep,No
+WB06,ST195,Capstone Showcase,No
+WB01,ST196,AI Workshop,Yes
+WB02,ST196,Data Science Bootcamp,Yes
+WB03,ST196,Career Readiness,No
+WB04,ST196,Resume Building,Yes
+WB05,ST196,Interview Prep,No
+WB06,ST196,Capstone Showcase,No
+WB01,ST197,AI Workshop,Yes
+WB02,ST197,Data Science Bootcamp,Yes
+WB03,ST197,Career Readiness,No
+WB04,ST197,Resume Building,Yes
+WB05,ST197,Interview Prep,Yes
+WB06,ST197,Capstone Showcase,No
+WB01,ST198,AI Workshop,No
+WB02,ST198,Data Science Bootcamp,Yes
+WB03,ST198,Career Readiness,Yes
+WB04,ST198,Resume Building,No
+WB05,ST198,Interview Prep,Yes
+WB06,ST198,Capstone Showcase,Yes
+WB01,ST199,AI Workshop,Yes
+WB02,ST199,Data Science Bootcamp,Yes
+WB03,ST199,Career Readiness,No
+WB04,ST199,Resume Building,Yes
+WB05,ST199,Interview Prep,Yes
+WB06,ST199,Capstone Showcase,No
+WB01,ST200,AI Workshop,Yes
+WB02,ST200,Data Science Bootcamp,Yes
+WB03,ST200,Career Readiness,Yes
+WB04,ST200,Resume Building,Yes
+WB05,ST200,Interview Prep,No
+WB06,ST200,Capstone Showcase,No
+WB01,ST201,AI Workshop,No
+WB02,ST201,Data Science Bootcamp,Yes
+WB03,ST201,Career Readiness,No
+WB04,ST201,Resume Building,No
+WB05,ST201,Interview Prep,No
+WB06,ST201,Capstone Showcase,No
+WB01,ST202,AI Workshop,No
+WB02,ST202,Data Science Bootcamp,No
+WB03,ST202,Career Readiness,Yes
+WB04,ST202,Resume Building,Yes
+WB05,ST202,Interview Prep,No
+WB06,ST202,Capstone Showcase,No
+WB01,ST203,AI Workshop,No
+WB02,ST203,Data Science Bootcamp,No
+WB03,ST203,Career Readiness,No
+WB04,ST203,Resume Building,Yes
+WB05,ST203,Interview Prep,No
+WB06,ST203,Capstone Showcase,No
+WB01,ST204,AI Workshop,No
+WB02,ST204,Data Science Bootcamp,Yes
+WB03,ST204,Career Readiness,No
+WB04,ST204,Resume Building,No
+WB05,ST204,Interview Prep,No
+WB06,ST204,Capstone Showcase,Yes
+WB01,ST205,AI Workshop,Yes
+WB02,ST205,Data Science Bootcamp,Yes
+WB03,ST205,Career Readiness,No
+WB04,ST205,Resume Building,Yes
+WB05,ST205,Interview Prep,Yes
+WB06,ST205,Capstone Showcase,Yes
+WB01,ST206,AI Workshop,No
+WB02,ST206,Data Science Bootcamp,Yes
+WB03,ST206,Career Readiness,Yes
+WB04,ST206,Resume Building,Yes
+WB05,ST206,Interview Prep,No
+WB06,ST206,Capstone Showcase,No
+WB01,ST207,AI Workshop,Yes
+WB02,ST207,Data Science Bootcamp,No
+WB03,ST207,Career Readiness,Yes
+WB04,ST207,Resume Building,No
+WB05,ST207,Interview Prep,Yes
+WB06,ST207,Capstone Showcase,No
+WB01,ST208,AI Workshop,No
+WB02,ST208,Data Science Bootcamp,Yes
+WB03,ST208,Career Readiness,Yes
+WB04,ST208,Resume Building,Yes
+WB05,ST208,Interview Prep,No
+WB06,ST208,Capstone Showcase,Yes
+WB01,ST209,AI Workshop,No
+WB02,ST209,Data Science Bootcamp,Yes
+WB03,ST209,Career Readiness,No
+WB04,ST209,Resume Building,No
+WB05,ST209,Interview Prep,No
+WB06,ST209,Capstone Showcase,No
+WB01,ST210,AI Workshop,No
+WB02,ST210,Data Science Bootcamp,Yes
+WB03,ST210,Career Readiness,Yes
+WB04,ST210,Resume Building,Yes
+WB05,ST210,Interview Prep,Yes
+WB06,ST210,Capstone Showcase,Yes
+WB01,ST211,AI Workshop,Yes
+WB02,ST211,Data Science Bootcamp,Yes
+WB03,ST211,Career Readiness,Yes
+WB04,ST211,Resume Building,Yes
+WB05,ST211,Interview Prep,Yes
+WB06,ST211,Capstone Showcase,Yes
+WB01,ST212,AI Workshop,No
+WB02,ST212,Data Science Bootcamp,No
+WB03,ST212,Career Readiness,No
+WB04,ST212,Resume Building,No
+WB05,ST212,Interview Prep,No
+WB06,ST212,Capstone Showcase,No
+WB01,ST213,AI Workshop,No
+WB02,ST213,Data Science Bootcamp,No
+WB03,ST213,Career Readiness,No
+WB04,ST213,Resume Building,No
+WB05,ST213,Interview Prep,Yes
+WB06,ST213,Capstone Showcase,Yes
+WB01,ST214,AI Workshop,No
+WB02,ST214,Data Science Bootcamp,No
+WB03,ST214,Career Readiness,No
+WB04,ST214,Resume Building,No
+WB05,ST214,Interview Prep,Yes
+WB06,ST214,Capstone Showcase,Yes
+WB01,ST215,AI Workshop,Yes
+WB02,ST215,Data Science Bootcamp,No
+WB03,ST215,Career Readiness,No
+WB04,ST215,Resume Building,No
+WB05,ST215,Interview Prep,No
+WB06,ST215,Capstone Showcase,No
+WB01,ST216,AI Workshop,Yes
+WB02,ST216,Data Science Bootcamp,Yes
+WB03,ST216,Career Readiness,Yes
+WB04,ST216,Resume Building,Yes
+WB05,ST216,Interview Prep,Yes
+WB06,ST216,Capstone Showcase,Yes
+WB01,ST217,AI Workshop,Yes
+WB02,ST217,Data Science Bootcamp,Yes
+WB03,ST217,Career Readiness,Yes
+WB04,ST217,Resume Building,Yes
+WB05,ST217,Interview Prep,No
+WB06,ST217,Capstone Showcase,Yes
+WB01,ST218,AI Workshop,Yes
+WB02,ST218,Data Science Bootcamp,Yes
+WB03,ST218,Career Readiness,Yes
+WB04,ST218,Resume Building,Yes
+WB05,ST218,Interview Prep,Yes
+WB06,ST218,Capstone Showcase,No
+WB01,ST219,AI Workshop,No
+WB02,ST219,Data Science Bootcamp,Yes
+WB03,ST219,Career Readiness,Yes
+WB04,ST219,Resume Building,No
+WB05,ST219,Interview Prep,No
+WB06,ST219,Capstone Showcase,No
+WB01,ST220,AI Workshop,Yes
+WB02,ST220,Data Science Bootcamp,Yes
+WB03,ST220,Career Readiness,Yes
+WB04,ST220,Resume Building,Yes
+WB05,ST220,Interview Prep,Yes
+WB06,ST220,Capstone Showcase,Yes
+WB01,ST221,AI Workshop,Yes
+WB02,ST221,Data Science Bootcamp,No
+WB03,ST221,Career Readiness,No
+WB04,ST221,Resume Building,Yes
+WB05,ST221,Interview Prep,Yes
+WB06,ST221,Capstone Showcase,Yes
+WB01,ST222,AI Workshop,No
+WB02,ST222,Data Science Bootcamp,Yes
+WB03,ST222,Career Readiness,No
+WB04,ST222,Resume Building,No
+WB05,ST222,Interview Prep,Yes
+WB06,ST222,Capstone Showcase,Yes
+WB01,ST223,AI Workshop,Yes
+WB02,ST223,Data Science Bootcamp,Yes
+WB03,ST223,Career Readiness,Yes
+WB04,ST223,Resume Building,Yes
+WB05,ST223,Interview Prep,No
+WB06,ST223,Capstone Showcase,No
+WB01,ST224,AI Workshop,Yes
+WB02,ST224,Data Science Bootcamp,Yes
+WB03,ST224,Career Readiness,Yes
+WB04,ST224,Resume Building,Yes
+WB05,ST224,Interview Prep,Yes
+WB06,ST224,Capstone Showcase,No
+WB01,ST225,AI Workshop,Yes
+WB02,ST225,Data Science Bootcamp,Yes
+WB03,ST225,Career Readiness,Yes
+WB04,ST225,Resume Building,Yes
+WB05,ST225,Interview Prep,Yes
+WB06,ST225,Capstone Showcase,Yes
+WB01,ST226,AI Workshop,Yes
+WB02,ST226,Data Science Bootcamp,No
+WB03,ST226,Career Readiness,No
+WB04,ST226,Resume Building,No
+WB05,ST226,Interview Prep,No
+WB06,ST226,Capstone Showcase,No
+WB01,ST227,AI Workshop,Yes
+WB02,ST227,Data Science Bootcamp,No
+WB03,ST227,Career Readiness,No
+WB04,ST227,Resume Building,Yes
+WB05,ST227,Interview Prep,Yes
+WB06,ST227,Capstone Showcase,No
+WB01,ST228,AI Workshop,No
+WB02,ST228,Data Science Bootcamp,No
+WB03,ST228,Career Readiness,No
+WB04,ST228,Resume Building,No
+WB05,ST228,Interview Prep,Yes
+WB06,ST228,Capstone Showcase,Yes
+WB01,ST229,AI Workshop,Yes
+WB02,ST229,Data Science Bootcamp,Yes
+WB03,ST229,Career Readiness,Yes
+WB04,ST229,Resume Building,Yes
+WB05,ST229,Interview Prep,Yes
+WB06,ST229,Capstone Showcase,Yes
+WB01,ST230,AI Workshop,No
+WB02,ST230,Data Science Bootcamp,No
+WB03,ST230,Career Readiness,No
+WB04,ST230,Resume Building,No
+WB05,ST230,Interview Prep,No
+WB06,ST230,Capstone Showcase,Yes
+WB01,ST231,AI Workshop,Yes
+WB02,ST231,Data Science Bootcamp,No
+WB03,ST231,Career Readiness,No
+WB04,ST231,Resume Building,No
+WB05,ST231,Interview Prep,No
+WB06,ST231,Capstone Showcase,No
+WB01,ST232,AI Workshop,Yes
+WB02,ST232,Data Science Bootcamp,Yes
+WB03,ST232,Career Readiness,Yes
+WB04,ST232,Resume Building,Yes
+WB05,ST232,Interview Prep,Yes
+WB06,ST232,Capstone Showcase,Yes
+WB01,ST233,AI Workshop,Yes
+WB02,ST233,Data Science Bootcamp,Yes
+WB03,ST233,Career Readiness,No
+WB04,ST233,Resume Building,Yes
+WB05,ST233,Interview Prep,No
+WB06,ST233,Capstone Showcase,No
+WB01,ST234,AI Workshop,No
+WB02,ST234,Data Science Bootcamp,No
+WB03,ST234,Career Readiness,No
+WB04,ST234,Resume Building,No
+WB05,ST234,Interview Prep,No
+WB06,ST234,Capstone Showcase,No
+WB01,ST235,AI Workshop,No
+WB02,ST235,Data Science Bootcamp,No
+WB03,ST235,Career Readiness,No
+WB04,ST235,Resume Building,No
+WB05,ST235,Interview Prep,No
+WB06,ST235,Capstone Showcase,Yes
+WB01,ST236,AI Workshop,Yes
+WB02,ST236,Data Science Bootcamp,No
+WB03,ST236,Career Readiness,No
+WB04,ST236,Resume Building,Yes
+WB05,ST236,Interview Prep,Yes
+WB06,ST236,Capstone Showcase,No
+WB01,ST237,AI Workshop,Yes
+WB02,ST237,Data Science Bootcamp,Yes
+WB03,ST237,Career Readiness,No
+WB04,ST237,Resume Building,Yes
+WB05,ST237,Interview Prep,Yes
+WB06,ST237,Capstone Showcase,Yes
+WB01,ST238,AI Workshop,Yes
+WB02,ST238,Data Science Bootcamp,No
+WB03,ST238,Career Readiness,Yes
+WB04,ST238,Resume Building,Yes
+WB05,ST238,Interview Prep,No
+WB06,ST238,Capstone Showcase,No
+WB01,ST239,AI Workshop,Yes
+WB02,ST239,Data Science Bootcamp,Yes
+WB03,ST239,Career Readiness,Yes
+WB04,ST239,Resume Building,Yes
+WB05,ST239,Interview Prep,Yes
+WB06,ST239,Capstone Showcase,Yes
+WB01,ST240,AI Workshop,Yes
+WB02,ST240,Data Science Bootcamp,Yes
+WB03,ST240,Career Readiness,Yes
+WB04,ST240,Resume Building,Yes
+WB05,ST240,Interview Prep,No
+WB06,ST240,Capstone Showcase,Yes
+WB01,ST241,AI Workshop,Yes
+WB02,ST241,Data Science Bootcamp,No
+WB03,ST241,Career Readiness,No
+WB04,ST241,Resume Building,No
+WB05,ST241,Interview Prep,No
+WB06,ST241,Capstone Showcase,No
+WB01,ST242,AI Workshop,No
+WB02,ST242,Data Science Bootcamp,No
+WB03,ST242,Career Readiness,No
+WB04,ST242,Resume Building,Yes
+WB05,ST242,Interview Prep,Yes
+WB06,ST242,Capstone Showcase,No
+WB01,ST243,AI Workshop,No
+WB02,ST243,Data Science Bootcamp,No
+WB03,ST243,Career Readiness,No
+WB04,ST243,Resume Building,Yes
+WB05,ST243,Interview Prep,Yes
+WB06,ST243,Capstone Showcase,No
+WB01,ST244,AI Workshop,No
+WB02,ST244,Data Science Bootcamp,No
+WB03,ST244,Career Readiness,Yes
+WB04,ST244,Resume Building,Yes
+WB05,ST244,Interview Prep,Yes
+WB06,ST244,Capstone Showcase,Yes
+WB01,ST245,AI Workshop,No
+WB02,ST245,Data Science Bootcamp,Yes
+WB03,ST245,Career Readiness,No
+WB04,ST245,Resume Building,Yes
+WB05,ST245,Interview Prep,Yes
+WB06,ST245,Capstone Showcase,No
+WB01,ST246,AI Workshop,No
+WB02,ST246,Data Science Bootcamp,No
+WB03,ST246,Career Readiness,No
+WB04,ST246,Resume Building,Yes
+WB05,ST246,Interview Prep,No
+WB06,ST246,Capstone Showcase,No
+WB01,ST247,AI Workshop,No
+WB02,ST247,Data Science Bootcamp,Yes
+WB03,ST247,Career Readiness,No
+WB04,ST247,Resume Building,No
+WB05,ST247,Interview Prep,No
+WB06,ST247,Capstone Showcase,No
+WB01,ST248,AI Workshop,Yes
+WB02,ST248,Data Science Bootcamp,No
+WB03,ST248,Career Readiness,Yes
+WB04,ST248,Resume Building,Yes
+WB05,ST248,Interview Prep,No
+WB06,ST248,Capstone Showcase,Yes
+WB01,ST249,AI Workshop,Yes
+WB02,ST249,Data Science Bootcamp,Yes
+WB03,ST249,Career Readiness,No
+WB04,ST249,Resume Building,No
+WB05,ST249,Interview Prep,Yes
+WB06,ST249,Capstone Showcase,Yes
+WB01,ST250,AI Workshop,Yes
+WB02,ST250,Data Science Bootcamp,Yes
+WB03,ST250,Career Readiness,No
+WB04,ST250,Resume Building,No
+WB05,ST250,Interview Prep,Yes
+WB06,ST250,Capstone Showcase,Yes

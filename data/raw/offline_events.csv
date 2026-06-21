@@ -1,0 +1,751 @@
+event_id,student_id,event_name,participation_type
+EV01,ST101,Hackathon,Not Attended
+EV02,ST101,Networking Mixer,Attended
+EV03,ST101,Guest Lecture,Attended
+EV04,ST101,Sports Day,Not Attended
+EV05,ST101,Orientation Day,Not Attended
+EV01,ST102,Hackathon,Not Attended
+EV02,ST102,Networking Mixer,Not Attended
+EV03,ST102,Guest Lecture,Attended
+EV04,ST102,Sports Day,Not Attended
+EV05,ST102,Orientation Day,Not Attended
+EV01,ST103,Hackathon,Not Attended
+EV02,ST103,Networking Mixer,Not Attended
+EV03,ST103,Guest Lecture,Attended
+EV04,ST103,Sports Day,Attended
+EV05,ST103,Orientation Day,Not Attended
+EV01,ST104,Hackathon,Not Attended
+EV02,ST104,Networking Mixer,Not Attended
+EV03,ST104,Guest Lecture,Not Attended
+EV04,ST104,Sports Day,Not Attended
+EV05,ST104,Orientation Day,Attended
+EV01,ST105,Hackathon,Attended
+EV02,ST105,Networking Mixer,Attended
+EV03,ST105,Guest Lecture,Not Attended
+EV04,ST105,Sports Day,Attended
+EV05,ST105,Orientation Day,Attended
+EV01,ST106,Hackathon,Not Attended
+EV02,ST106,Networking Mixer,Not Attended
+EV03,ST106,Guest Lecture,Not Attended
+EV04,ST106,Sports Day,Not Attended
+EV05,ST106,Orientation Day,Not Attended
+EV01,ST107,Hackathon,Not Attended
+EV02,ST107,Networking Mixer,Not Attended
+EV03,ST107,Guest Lecture,Attended
+EV04,ST107,Sports Day,Attended
+EV05,ST107,Orientation Day,Attended
+EV01,ST108,Hackathon,Attended
+EV02,ST108,Networking Mixer,Not Attended
+EV03,ST108,Guest Lecture,Not Attended
+EV04,ST108,Sports Day,Not Attended
+EV05,ST108,Orientation Day,Attended
+EV01,ST109,Hackathon,Not Attended
+EV02,ST109,Networking Mixer,Attended
+EV03,ST109,Guest Lecture,Attended
+EV04,ST109,Sports Day,Not Attended
+EV05,ST109,Orientation Day,Not Attended
+EV01,ST110,Hackathon,Not Attended
+EV02,ST110,Networking Mixer,Attended
+EV03,ST110,Guest Lecture,Attended
+EV04,ST110,Sports Day,Not Attended
+EV05,ST110,Orientation Day,Not Attended
+EV01,ST111,Hackathon,Attended
+EV02,ST111,Networking Mixer,Not Attended
+EV03,ST111,Guest Lecture,Not Attended
+EV04,ST111,Sports Day,Not Attended
+EV05,ST111,Orientation Day,Attended
+EV01,ST112,Hackathon,Attended
+EV02,ST112,Networking Mixer,Not Attended
+EV03,ST112,Guest Lecture,Not Attended
+EV04,ST112,Sports Day,Not Attended
+EV05,ST112,Orientation Day,Attended
+EV01,ST113,Hackathon,Not Attended
+EV02,ST113,Networking Mixer,Attended
+EV03,ST113,Guest Lecture,Attended
+EV04,ST113,Sports Day,Not Attended
+EV05,ST113,Orientation Day,Attended
+EV01,ST114,Hackathon,Not Attended
+EV02,ST114,Networking Mixer,Not Attended
+EV03,ST114,Guest Lecture,Not Attended
+EV04,ST114,Sports Day,Not Attended
+EV05,ST114,Orientation Day,Not Attended
+EV01,ST115,Hackathon,Not Attended
+EV02,ST115,Networking Mixer,Not Attended
+EV03,ST115,Guest Lecture,Not Attended
+EV04,ST115,Sports Day,Not Attended
+EV05,ST115,Orientation Day,Not Attended
+EV01,ST116,Hackathon,Not Attended
+EV02,ST116,Networking Mixer,Not Attended
+EV03,ST116,Guest Lecture,Not Attended
+EV04,ST116,Sports Day,Not Attended
+EV05,ST116,Orientation Day,Not Attended
+EV01,ST117,Hackathon,Not Attended
+EV02,ST117,Networking Mixer,Not Attended
+EV03,ST117,Guest Lecture,Not Attended
+EV04,ST117,Sports Day,Not Attended
+EV05,ST117,Orientation Day,Not Attended
+EV01,ST118,Hackathon,Attended
+EV02,ST118,Networking Mixer,Not Attended
+EV03,ST118,Guest Lecture,Not Attended
+EV04,ST118,Sports Day,Attended
+EV05,ST118,Orientation Day,Attended
+EV01,ST119,Hackathon,Not Attended
+EV02,ST119,Networking Mixer,Not Attended
+EV03,ST119,Guest Lecture,Not Attended
+EV04,ST119,Sports Day,Not Attended
+EV05,ST119,Orientation Day,Not Attended
+EV01,ST120,Hackathon,Not Attended
+EV02,ST120,Networking Mixer,Not Attended
+EV03,ST120,Guest Lecture,Not Attended
+EV04,ST120,Sports Day,Attended
+EV05,ST120,Orientation Day,Not Attended
+EV01,ST121,Hackathon,Not Attended
+EV02,ST121,Networking Mixer,Not Attended
+EV03,ST121,Guest Lecture,Not Attended
+EV04,ST121,Sports Day,Not Attended
+EV05,ST121,Orientation Day,Not Attended
+EV01,ST122,Hackathon,Not Attended
+EV02,ST122,Networking Mixer,Attended
+EV03,ST122,Guest Lecture,Attended
+EV04,ST122,Sports Day,Not Attended
+EV05,ST122,Orientation Day,Attended
+EV01,ST123,Hackathon,Not Attended
+EV02,ST123,Networking Mixer,Not Attended
+EV03,ST123,Guest Lecture,Attended
+EV04,ST123,Sports Day,Not Attended
+EV05,ST123,Orientation Day,Not Attended
+EV01,ST124,Hackathon,Not Attended
+EV02,ST124,Networking Mixer,Not Attended
+EV03,ST124,Guest Lecture,Attended
+EV04,ST124,Sports Day,Not Attended
+EV05,ST124,Orientation Day,Not Attended
+EV01,ST125,Hackathon,Not Attended
+EV02,ST125,Networking Mixer,Attended
+EV03,ST125,Guest Lecture,Not Attended
+EV04,ST125,Sports Day,Attended
+EV05,ST125,Orientation Day,Attended
+EV01,ST126,Hackathon,Not Attended
+EV02,ST126,Networking Mixer,Not Attended
+EV03,ST126,Guest Lecture,Attended
+EV04,ST126,Sports Day,Not Attended
+EV05,ST126,Orientation Day,Not Attended
+EV01,ST127,Hackathon,Attended
+EV02,ST127,Networking Mixer,Not Attended
+EV03,ST127,Guest Lecture,Attended
+EV04,ST127,Sports Day,Not Attended
+EV05,ST127,Orientation Day,Not Attended
+EV01,ST128,Hackathon,Attended
+EV02,ST128,Networking Mixer,Not Attended
+EV03,ST128,Guest Lecture,Not Attended
+EV04,ST128,Sports Day,Attended
+EV05,ST128,Orientation Day,Not Attended
+EV01,ST129,Hackathon,Not Attended
+EV02,ST129,Networking Mixer,Not Attended
+EV03,ST129,Guest Lecture,Not Attended
+EV04,ST129,Sports Day,Not Attended
+EV05,ST129,Orientation Day,Not Attended
+EV01,ST130,Hackathon,Not Attended
+EV02,ST130,Networking Mixer,Not Attended
+EV03,ST130,Guest Lecture,Not Attended
+EV04,ST130,Sports Day,Not Attended
+EV05,ST130,Orientation Day,Not Attended
+EV01,ST131,Hackathon,Not Attended
+EV02,ST131,Networking Mixer,Not Attended
+EV03,ST131,Guest Lecture,Not Attended
+EV04,ST131,Sports Day,Not Attended
+EV05,ST131,Orientation Day,Not Attended
+EV01,ST132,Hackathon,Not Attended
+EV02,ST132,Networking Mixer,Not Attended
+EV03,ST132,Guest Lecture,Not Attended
+EV04,ST132,Sports Day,Not Attended
+EV05,ST132,Orientation Day,Attended
+EV01,ST133,Hackathon,Attended
+EV02,ST133,Networking Mixer,Not Attended
+EV03,ST133,Guest Lecture,Not Attended
+EV04,ST133,Sports Day,Not Attended
+EV05,ST133,Orientation Day,Not Attended
+EV01,ST134,Hackathon,Not Attended
+EV02,ST134,Networking Mixer,Not Attended
+EV03,ST134,Guest Lecture,Not Attended
+EV04,ST134,Sports Day,Not Attended
+EV05,ST134,Orientation Day,Not Attended
+EV01,ST135,Hackathon,Not Attended
+EV02,ST135,Networking Mixer,Not Attended
+EV03,ST135,Guest Lecture,Attended
+EV04,ST135,Sports Day,Not Attended
+EV05,ST135,Orientation Day,Not Attended
+EV01,ST136,Hackathon,Not Attended
+EV02,ST136,Networking Mixer,Not Attended
+EV03,ST136,Guest Lecture,Attended
+EV04,ST136,Sports Day,Not Attended
+EV05,ST136,Orientation Day,Attended
+EV01,ST137,Hackathon,Not Attended
+EV02,ST137,Networking Mixer,Not Attended
+EV03,ST137,Guest Lecture,Attended
+EV04,ST137,Sports Day,Not Attended
+EV05,ST137,Orientation Day,Attended
+EV01,ST138,Hackathon,Attended
+EV02,ST138,Networking Mixer,Not Attended
+EV03,ST138,Guest Lecture,Attended
+EV04,ST138,Sports Day,Attended
+EV05,ST138,Orientation Day,Not Attended
+EV01,ST139,Hackathon,Not Attended
+EV02,ST139,Networking Mixer,Not Attended
+EV03,ST139,Guest Lecture,Not Attended
+EV04,ST139,Sports Day,Not Attended
+EV05,ST139,Orientation Day,Attended
+EV01,ST140,Hackathon,Not Attended
+EV02,ST140,Networking Mixer,Attended
+EV03,ST140,Guest Lecture,Not Attended
+EV04,ST140,Sports Day,Not Attended
+EV05,ST140,Orientation Day,Not Attended
+EV01,ST141,Hackathon,Not Attended
+EV02,ST141,Networking Mixer,Not Attended
+EV03,ST141,Guest Lecture,Not Attended
+EV04,ST141,Sports Day,Attended
+EV05,ST141,Orientation Day,Not Attended
+EV01,ST142,Hackathon,Attended
+EV02,ST142,Networking Mixer,Attended
+EV03,ST142,Guest Lecture,Attended
+EV04,ST142,Sports Day,Attended
+EV05,ST142,Orientation Day,Not Attended
+EV01,ST143,Hackathon,Attended
+EV02,ST143,Networking Mixer,Attended
+EV03,ST143,Guest Lecture,Attended
+EV04,ST143,Sports Day,Attended
+EV05,ST143,Orientation Day,Attended
+EV01,ST144,Hackathon,Not Attended
+EV02,ST144,Networking Mixer,Not Attended
+EV03,ST144,Guest Lecture,Not Attended
+EV04,ST144,Sports Day,Not Attended
+EV05,ST144,Orientation Day,Not Attended
+EV01,ST145,Hackathon,Not Attended
+EV02,ST145,Networking Mixer,Attended
+EV03,ST145,Guest Lecture,Attended
+EV04,ST145,Sports Day,Not Attended
+EV05,ST145,Orientation Day,Not Attended
+EV01,ST146,Hackathon,Not Attended
+EV02,ST146,Networking Mixer,Not Attended
+EV03,ST146,Guest Lecture,Attended
+EV04,ST146,Sports Day,Attended
+EV05,ST146,Orientation Day,Attended
+EV01,ST147,Hackathon,Not Attended
+EV02,ST147,Networking Mixer,Not Attended
+EV03,ST147,Guest Lecture,Not Attended
+EV04,ST147,Sports Day,Not Attended
+EV05,ST147,Orientation Day,Attended
+EV01,ST148,Hackathon,Not Attended
+EV02,ST148,Networking Mixer,Attended
+EV03,ST148,Guest Lecture,Not Attended
+EV04,ST148,Sports Day,Not Attended
+EV05,ST148,Orientation Day,Attended
+EV01,ST149,Hackathon,Attended
+EV02,ST149,Networking Mixer,Not Attended
+EV03,ST149,Guest Lecture,Attended
+EV04,ST149,Sports Day,Attended
+EV05,ST149,Orientation Day,Attended
+EV01,ST150,Hackathon,Not Attended
+EV02,ST150,Networking Mixer,Not Attended
+EV03,ST150,Guest Lecture,Not Attended
+EV04,ST150,Sports Day,Not Attended
+EV05,ST150,Orientation Day,Not Attended
+EV01,ST151,Hackathon,Not Attended
+EV02,ST151,Networking Mixer,Not Attended
+EV03,ST151,Guest Lecture,Attended
+EV04,ST151,Sports Day,Not Attended
+EV05,ST151,Orientation Day,Attended
+EV01,ST152,Hackathon,Attended
+EV02,ST152,Networking Mixer,Attended
+EV03,ST152,Guest Lecture,Not Attended
+EV04,ST152,Sports Day,Attended
+EV05,ST152,Orientation Day,Not Attended
+EV01,ST153,Hackathon,Attended
+EV02,ST153,Networking Mixer,Not Attended
+EV03,ST153,Guest Lecture,Not Attended
+EV04,ST153,Sports Day,Not Attended
+EV05,ST153,Orientation Day,Not Attended
+EV01,ST154,Hackathon,Not Attended
+EV02,ST154,Networking Mixer,Not Attended
+EV03,ST154,Guest Lecture,Not Attended
+EV04,ST154,Sports Day,Not Attended
+EV05,ST154,Orientation Day,Not Attended
+EV01,ST155,Hackathon,Attended
+EV02,ST155,Networking Mixer,Not Attended
+EV03,ST155,Guest Lecture,Attended
+EV04,ST155,Sports Day,Attended
+EV05,ST155,Orientation Day,Attended
+EV01,ST156,Hackathon,Attended
+EV02,ST156,Networking Mixer,Attended
+EV03,ST156,Guest Lecture,Not Attended
+EV04,ST156,Sports Day,Not Attended
+EV05,ST156,Orientation Day,Not Attended
+EV01,ST157,Hackathon,Not Attended
+EV02,ST157,Networking Mixer,Not Attended
+EV03,ST157,Guest Lecture,Not Attended
+EV04,ST157,Sports Day,Not Attended
+EV05,ST157,Orientation Day,Not Attended
+EV01,ST158,Hackathon,Attended
+EV02,ST158,Networking Mixer,Not Attended
+EV03,ST158,Guest Lecture,Attended
+EV04,ST158,Sports Day,Attended
+EV05,ST158,Orientation Day,Not Attended
+EV01,ST159,Hackathon,Attended
+EV02,ST159,Networking Mixer,Attended
+EV03,ST159,Guest Lecture,Not Attended
+EV04,ST159,Sports Day,Attended
+EV05,ST159,Orientation Day,Not Attended
+EV01,ST160,Hackathon,Not Attended
+EV02,ST160,Networking Mixer,Attended
+EV03,ST160,Guest Lecture,Attended
+EV04,ST160,Sports Day,Not Attended
+EV05,ST160,Orientation Day,Not Attended
+EV01,ST161,Hackathon,Not Attended
+EV02,ST161,Networking Mixer,Not Attended
+EV03,ST161,Guest Lecture,Not Attended
+EV04,ST161,Sports Day,Not Attended
+EV05,ST161,Orientation Day,Not Attended
+EV01,ST162,Hackathon,Not Attended
+EV02,ST162,Networking Mixer,Not Attended
+EV03,ST162,Guest Lecture,Attended
+EV04,ST162,Sports Day,Attended
+EV05,ST162,Orientation Day,Not Attended
+EV01,ST163,Hackathon,Not Attended
+EV02,ST163,Networking Mixer,Not Attended
+EV03,ST163,Guest Lecture,Attended
+EV04,ST163,Sports Day,Not Attended
+EV05,ST163,Orientation Day,Not Attended
+EV01,ST164,Hackathon,Attended
+EV02,ST164,Networking Mixer,Attended
+EV03,ST164,Guest Lecture,Not Attended
+EV04,ST164,Sports Day,Not Attended
+EV05,ST164,Orientation Day,Attended
+EV01,ST165,Hackathon,Not Attended
+EV02,ST165,Networking Mixer,Not Attended
+EV03,ST165,Guest Lecture,Not Attended
+EV04,ST165,Sports Day,Attended
+EV05,ST165,Orientation Day,Attended
+EV01,ST166,Hackathon,Attended
+EV02,ST166,Networking Mixer,Not Attended
+EV03,ST166,Guest Lecture,Attended
+EV04,ST166,Sports Day,Attended
+EV05,ST166,Orientation Day,Not Attended
+EV01,ST167,Hackathon,Not Attended
+EV02,ST167,Networking Mixer,Not Attended
+EV03,ST167,Guest Lecture,Not Attended
+EV04,ST167,Sports Day,Not Attended
+EV05,ST167,Orientation Day,Not Attended
+EV01,ST168,Hackathon,Not Attended
+EV02,ST168,Networking Mixer,Not Attended
+EV03,ST168,Guest Lecture,Not Attended
+EV04,ST168,Sports Day,Not Attended
+EV05,ST168,Orientation Day,Not Attended
+EV01,ST169,Hackathon,Not Attended
+EV02,ST169,Networking Mixer,Attended
+EV03,ST169,Guest Lecture,Not Attended
+EV04,ST169,Sports Day,Attended
+EV05,ST169,Orientation Day,Attended
+EV01,ST170,Hackathon,Not Attended
+EV02,ST170,Networking Mixer,Not Attended
+EV03,ST170,Guest Lecture,Not Attended
+EV04,ST170,Sports Day,Not Attended
+EV05,ST170,Orientation Day,Not Attended
+EV01,ST171,Hackathon,Attended
+EV02,ST171,Networking Mixer,Attended
+EV03,ST171,Guest Lecture,Attended
+EV04,ST171,Sports Day,Attended
+EV05,ST171,Orientation Day,Attended
+EV01,ST172,Hackathon,Attended
+EV02,ST172,Networking Mixer,Attended
+EV03,ST172,Guest Lecture,Not Attended
+EV04,ST172,Sports Day,Attended
+EV05,ST172,Orientation Day,Not Attended
+EV01,ST173,Hackathon,Not Attended
+EV02,ST173,Networking Mixer,Not Attended
+EV03,ST173,Guest Lecture,Not Attended
+EV04,ST173,Sports Day,Attended
+EV05,ST173,Orientation Day,Not Attended
+EV01,ST174,Hackathon,Attended
+EV02,ST174,Networking Mixer,Not Attended
+EV03,ST174,Guest Lecture,Not Attended
+EV04,ST174,Sports Day,Not Attended
+EV05,ST174,Orientation Day,Attended
+EV01,ST175,Hackathon,Not Attended
+EV02,ST175,Networking Mixer,Attended
+EV03,ST175,Guest Lecture,Not Attended
+EV04,ST175,Sports Day,Attended
+EV05,ST175,Orientation Day,Not Attended
+EV01,ST176,Hackathon,Not Attended
+EV02,ST176,Networking Mixer,Not Attended
+EV03,ST176,Guest Lecture,Not Attended
+EV04,ST176,Sports Day,Not Attended
+EV05,ST176,Orientation Day,Attended
+EV01,ST177,Hackathon,Attended
+EV02,ST177,Networking Mixer,Not Attended
+EV03,ST177,Guest Lecture,Not Attended
+EV04,ST177,Sports Day,Attended
+EV05,ST177,Orientation Day,Attended
+EV01,ST178,Hackathon,Attended
+EV02,ST178,Networking Mixer,Not Attended
+EV03,ST178,Guest Lecture,Attended
+EV04,ST178,Sports Day,Not Attended
+EV05,ST178,Orientation Day,Not Attended
+EV01,ST179,Hackathon,Attended
+EV02,ST179,Networking Mixer,Attended
+EV03,ST179,Guest Lecture,Attended
+EV04,ST179,Sports Day,Attended
+EV05,ST179,Orientation Day,Attended
+EV01,ST180,Hackathon,Attended
+EV02,ST180,Networking Mixer,Attended
+EV03,ST180,Guest Lecture,Attended
+EV04,ST180,Sports Day,Not Attended
+EV05,ST180,Orientation Day,Attended
+EV01,ST181,Hackathon,Attended
+EV02,ST181,Networking Mixer,Attended
+EV03,ST181,Guest Lecture,Attended
+EV04,ST181,Sports Day,Attended
+EV05,ST181,Orientation Day,Attended
+EV01,ST182,Hackathon,Not Attended
+EV02,ST182,Networking Mixer,Attended
+EV03,ST182,Guest Lecture,Not Attended
+EV04,ST182,Sports Day,Not Attended
+EV05,ST182,Orientation Day,Not Attended
+EV01,ST183,Hackathon,Not Attended
+EV02,ST183,Networking Mixer,Not Attended
+EV03,ST183,Guest Lecture,Not Attended
+EV04,ST183,Sports Day,Not Attended
+EV05,ST183,Orientation Day,Not Attended
+EV01,ST184,Hackathon,Attended
+EV02,ST184,Networking Mixer,Attended
+EV03,ST184,Guest Lecture,Attended
+EV04,ST184,Sports Day,Attended
+EV05,ST184,Orientation Day,Not Attended
+EV01,ST185,Hackathon,Attended
+EV02,ST185,Networking Mixer,Attended
+EV03,ST185,Guest Lecture,Not Attended
+EV04,ST185,Sports Day,Not Attended
+EV05,ST185,Orientation Day,Not Attended
+EV01,ST186,Hackathon,Not Attended
+EV02,ST186,Networking Mixer,Attended
+EV03,ST186,Guest Lecture,Not Attended
+EV04,ST186,Sports Day,Not Attended
+EV05,ST186,Orientation Day,Attended
+EV01,ST187,Hackathon,Not Attended
+EV02,ST187,Networking Mixer,Attended
+EV03,ST187,Guest Lecture,Not Attended
+EV04,ST187,Sports Day,Not Attended
+EV05,ST187,Orientation Day,Not Attended
+EV01,ST188,Hackathon,Not Attended
+EV02,ST188,Networking Mixer,Attended
+EV03,ST188,Guest Lecture,Attended
+EV04,ST188,Sports Day,Not Attended
+EV05,ST188,Orientation Day,Not Attended
+EV01,ST189,Hackathon,Not Attended
+EV02,ST189,Networking Mixer,Attended
+EV03,ST189,Guest Lecture,Not Attended
+EV04,ST189,Sports Day,Not Attended
+EV05,ST189,Orientation Day,Not Attended
+EV01,ST190,Hackathon,Attended
+EV02,ST190,Networking Mixer,Attended
+EV03,ST190,Guest Lecture,Attended
+EV04,ST190,Sports Day,Not Attended
+EV05,ST190,Orientation Day,Attended
+EV01,ST191,Hackathon,Not Attended
+EV02,ST191,Networking Mixer,Attended
+EV03,ST191,Guest Lecture,Not Attended
+EV04,ST191,Sports Day,Not Attended
+EV05,ST191,Orientation Day,Attended
+EV01,ST192,Hackathon,Not Attended
+EV02,ST192,Networking Mixer,Not Attended
+EV03,ST192,Guest Lecture,Not Attended
+EV04,ST192,Sports Day,Attended
+EV05,ST192,Orientation Day,Not Attended
+EV01,ST193,Hackathon,Attended
+EV02,ST193,Networking Mixer,Attended
+EV03,ST193,Guest Lecture,Attended
+EV04,ST193,Sports Day,Not Attended
+EV05,ST193,Orientation Day,Not Attended
+EV01,ST194,Hackathon,Attended
+EV02,ST194,Networking Mixer,Not Attended
+EV03,ST194,Guest Lecture,Not Attended
+EV04,ST194,Sports Day,Attended
+EV05,ST194,Orientation Day,Attended
+EV01,ST195,Hackathon,Not Attended
+EV02,ST195,Networking Mixer,Not Attended
+EV03,ST195,Guest Lecture,Attended
+EV04,ST195,Sports Day,Not Attended
+EV05,ST195,Orientation Day,Not Attended
+EV01,ST196,Hackathon,Attended
+EV02,ST196,Networking Mixer,Not Attended
+EV03,ST196,Guest Lecture,Not Attended
+EV04,ST196,Sports Day,Not Attended
+EV05,ST196,Orientation Day,Attended
+EV01,ST197,Hackathon,Attended
+EV02,ST197,Networking Mixer,Attended
+EV03,ST197,Guest Lecture,Not Attended
+EV04,ST197,Sports Day,Not Attended
+EV05,ST197,Orientation Day,Attended
+EV01,ST198,Hackathon,Not Attended
+EV02,ST198,Networking Mixer,Not Attended
+EV03,ST198,Guest Lecture,Not Attended
+EV04,ST198,Sports Day,Not Attended
+EV05,ST198,Orientation Day,Attended
+EV01,ST199,Hackathon,Not Attended
+EV02,ST199,Networking Mixer,Not Attended
+EV03,ST199,Guest Lecture,Not Attended
+EV04,ST199,Sports Day,Attended
+EV05,ST199,Orientation Day,Attended
+EV01,ST200,Hackathon,Attended
+EV02,ST200,Networking Mixer,Not Attended
+EV03,ST200,Guest Lecture,Attended
+EV04,ST200,Sports Day,Attended
+EV05,ST200,Orientation Day,Attended
+EV01,ST201,Hackathon,Attended
+EV02,ST201,Networking Mixer,Attended
+EV03,ST201,Guest Lecture,Not Attended
+EV04,ST201,Sports Day,Attended
+EV05,ST201,Orientation Day,Not Attended
+EV01,ST202,Hackathon,Not Attended
+EV02,ST202,Networking Mixer,Attended
+EV03,ST202,Guest Lecture,Not Attended
+EV04,ST202,Sports Day,Attended
+EV05,ST202,Orientation Day,Attended
+EV01,ST203,Hackathon,Not Attended
+EV02,ST203,Networking Mixer,Not Attended
+EV03,ST203,Guest Lecture,Attended
+EV04,ST203,Sports Day,Attended
+EV05,ST203,Orientation Day,Attended
+EV01,ST204,Hackathon,Attended
+EV02,ST204,Networking Mixer,Attended
+EV03,ST204,Guest Lecture,Not Attended
+EV04,ST204,Sports Day,Not Attended
+EV05,ST204,Orientation Day,Attended
+EV01,ST205,Hackathon,Attended
+EV02,ST205,Networking Mixer,Attended
+EV03,ST205,Guest Lecture,Attended
+EV04,ST205,Sports Day,Not Attended
+EV05,ST205,Orientation Day,Not Attended
+EV01,ST206,Hackathon,Attended
+EV02,ST206,Networking Mixer,Attended
+EV03,ST206,Guest Lecture,Attended
+EV04,ST206,Sports Day,Attended
+EV05,ST206,Orientation Day,Not Attended
+EV01,ST207,Hackathon,Not Attended
+EV02,ST207,Networking Mixer,Attended
+EV03,ST207,Guest Lecture,Not Attended
+EV04,ST207,Sports Day,Not Attended
+EV05,ST207,Orientation Day,Not Attended
+EV01,ST208,Hackathon,Attended
+EV02,ST208,Networking Mixer,Not Attended
+EV03,ST208,Guest Lecture,Attended
+EV04,ST208,Sports Day,Attended
+EV05,ST208,Orientation Day,Not Attended
+EV01,ST209,Hackathon,Not Attended
+EV02,ST209,Networking Mixer,Not Attended
+EV03,ST209,Guest Lecture,Not Attended
+EV04,ST209,Sports Day,Not Attended
+EV05,ST209,Orientation Day,Not Attended
+EV01,ST210,Hackathon,Not Attended
+EV02,ST210,Networking Mixer,Attended
+EV03,ST210,Guest Lecture,Attended
+EV04,ST210,Sports Day,Not Attended
+EV05,ST210,Orientation Day,Not Attended
+EV01,ST211,Hackathon,Attended
+EV02,ST211,Networking Mixer,Attended
+EV03,ST211,Guest Lecture,Attended
+EV04,ST211,Sports Day,Attended
+EV05,ST211,Orientation Day,Not Attended
+EV01,ST212,Hackathon,Not Attended
+EV02,ST212,Networking Mixer,Attended
+EV03,ST212,Guest Lecture,Not Attended
+EV04,ST212,Sports Day,Not Attended
+EV05,ST212,Orientation Day,Not Attended
+EV01,ST213,Hackathon,Not Attended
+EV02,ST213,Networking Mixer,Not Attended
+EV03,ST213,Guest Lecture,Attended
+EV04,ST213,Sports Day,Not Attended
+EV05,ST213,Orientation Day,Not Attended
+EV01,ST214,Hackathon,Not Attended
+EV02,ST214,Networking Mixer,Not Attended
+EV03,ST214,Guest Lecture,Not Attended
+EV04,ST214,Sports Day,Not Attended
+EV05,ST214,Orientation Day,Attended
+EV01,ST215,Hackathon,Not Attended
+EV02,ST215,Networking Mixer,Not Attended
+EV03,ST215,Guest Lecture,Attended
+EV04,ST215,Sports Day,Not Attended
+EV05,ST215,Orientation Day,Not Attended
+EV01,ST216,Hackathon,Not Attended
+EV02,ST216,Networking Mixer,Attended
+EV03,ST216,Guest Lecture,Attended
+EV04,ST216,Sports Day,Attended
+EV05,ST216,Orientation Day,Attended
+EV01,ST217,Hackathon,Attended
+EV02,ST217,Networking Mixer,Not Attended
+EV03,ST217,Guest Lecture,Not Attended
+EV04,ST217,Sports Day,Attended
+EV05,ST217,Orientation Day,Attended
+EV01,ST218,Hackathon,Attended
+EV02,ST218,Networking Mixer,Not Attended
+EV03,ST218,Guest Lecture,Not Attended
+EV04,ST218,Sports Day,Attended
+EV05,ST218,Orientation Day,Attended
+EV01,ST219,Hackathon,Attended
+EV02,ST219,Networking Mixer,Not Attended
+EV03,ST219,Guest Lecture,Attended
+EV04,ST219,Sports Day,Attended
+EV05,ST219,Orientation Day,Not Attended
+EV01,ST220,Hackathon,Not Attended
+EV02,ST220,Networking Mixer,Not Attended
+EV03,ST220,Guest Lecture,Attended
+EV04,ST220,Sports Day,Not Attended
+EV05,ST220,Orientation Day,Attended
+EV01,ST221,Hackathon,Attended
+EV02,ST221,Networking Mixer,Attended
+EV03,ST221,Guest Lecture,Attended
+EV04,ST221,Sports Day,Attended
+EV05,ST221,Orientation Day,Attended
+EV01,ST222,Hackathon,Not Attended
+EV02,ST222,Networking Mixer,Not Attended
+EV03,ST222,Guest Lecture,Not Attended
+EV04,ST222,Sports Day,Not Attended
+EV05,ST222,Orientation Day,Not Attended
+EV01,ST223,Hackathon,Not Attended
+EV02,ST223,Networking Mixer,Not Attended
+EV03,ST223,Guest Lecture,Attended
+EV04,ST223,Sports Day,Not Attended
+EV05,ST223,Orientation Day,Not Attended
+EV01,ST224,Hackathon,Attended
+EV02,ST224,Networking Mixer,Attended
+EV03,ST224,Guest Lecture,Not Attended
+EV04,ST224,Sports Day,Attended
+EV05,ST224,Orientation Day,Not Attended
+EV01,ST225,Hackathon,Not Attended
+EV02,ST225,Networking Mixer,Not Attended
+EV03,ST225,Guest Lecture,Attended
+EV04,ST225,Sports Day,Attended
+EV05,ST225,Orientation Day,Attended
+EV01,ST226,Hackathon,Not Attended
+EV02,ST226,Networking Mixer,Not Attended
+EV03,ST226,Guest Lecture,Not Attended
+EV04,ST226,Sports Day,Not Attended
+EV05,ST226,Orientation Day,Not Attended
+EV01,ST227,Hackathon,Not Attended
+EV02,ST227,Networking Mixer,Attended
+EV03,ST227,Guest Lecture,Not Attended
+EV04,ST227,Sports Day,Not Attended
+EV05,ST227,Orientation Day,Not Attended
+EV01,ST228,Hackathon,Not Attended
+EV02,ST228,Networking Mixer,Not Attended
+EV03,ST228,Guest Lecture,Not Attended
+EV04,ST228,Sports Day,Attended
+EV05,ST228,Orientation Day,Attended
+EV01,ST229,Hackathon,Not Attended
+EV02,ST229,Networking Mixer,Not Attended
+EV03,ST229,Guest Lecture,Attended
+EV04,ST229,Sports Day,Attended
+EV05,ST229,Orientation Day,Attended
+EV01,ST230,Hackathon,Not Attended
+EV02,ST230,Networking Mixer,Not Attended
+EV03,ST230,Guest Lecture,Not Attended
+EV04,ST230,Sports Day,Not Attended
+EV05,ST230,Orientation Day,Attended
+EV01,ST231,Hackathon,Not Attended
+EV02,ST231,Networking Mixer,Attended
+EV03,ST231,Guest Lecture,Not Attended
+EV04,ST231,Sports Day,Not Attended
+EV05,ST231,Orientation Day,Not Attended
+EV01,ST232,Hackathon,Not Attended
+EV02,ST232,Networking Mixer,Not Attended
+EV03,ST232,Guest Lecture,Not Attended
+EV04,ST232,Sports Day,Attended
+EV05,ST232,Orientation Day,Not Attended
+EV01,ST233,Hackathon,Not Attended
+EV02,ST233,Networking Mixer,Attended
+EV03,ST233,Guest Lecture,Not Attended
+EV04,ST233,Sports Day,Not Attended
+EV05,ST233,Orientation Day,Attended
+EV01,ST234,Hackathon,Not Attended
+EV02,ST234,Networking Mixer,Not Attended
+EV03,ST234,Guest Lecture,Not Attended
+EV04,ST234,Sports Day,Not Attended
+EV05,ST234,Orientation Day,Not Attended
+EV01,ST235,Hackathon,Not Attended
+EV02,ST235,Networking Mixer,Attended
+EV03,ST235,Guest Lecture,Not Attended
+EV04,ST235,Sports Day,Not Attended
+EV05,ST235,Orientation Day,Attended
+EV01,ST236,Hackathon,Attended
+EV02,ST236,Networking Mixer,Not Attended
+EV03,ST236,Guest Lecture,Attended
+EV04,ST236,Sports Day,Not Attended
+EV05,ST236,Orientation Day,Not Attended
+EV01,ST237,Hackathon,Attended
+EV02,ST237,Networking Mixer,Attended
+EV03,ST237,Guest Lecture,Not Attended
+EV04,ST237,Sports Day,Not Attended
+EV05,ST237,Orientation Day,Attended
+EV01,ST238,Hackathon,Not Attended
+EV02,ST238,Networking Mixer,Attended
+EV03,ST238,Guest Lecture,Not Attended
+EV04,ST238,Sports Day,Not Attended
+EV05,ST238,Orientation Day,Not Attended
+EV01,ST239,Hackathon,Not Attended
+EV02,ST239,Networking Mixer,Not Attended
+EV03,ST239,Guest Lecture,Attended
+EV04,ST239,Sports Day,Attended
+EV05,ST239,Orientation Day,Not Attended
+EV01,ST240,Hackathon,Attended
+EV02,ST240,Networking Mixer,Attended
+EV03,ST240,Guest Lecture,Not Attended
+EV04,ST240,Sports Day,Attended
+EV05,ST240,Orientation Day,Not Attended
+EV01,ST241,Hackathon,Attended
+EV02,ST241,Networking Mixer,Attended
+EV03,ST241,Guest Lecture,Not Attended
+EV04,ST241,Sports Day,Attended
+EV05,ST241,Orientation Day,Not Attended
+EV01,ST242,Hackathon,Not Attended
+EV02,ST242,Networking Mixer,Attended
+EV03,ST242,Guest Lecture,Attended
+EV04,ST242,Sports Day,Not Attended
+EV05,ST242,Orientation Day,Not Attended
+EV01,ST243,Hackathon,Not Attended
+EV02,ST243,Networking Mixer,Not Attended
+EV03,ST243,Guest Lecture,Attended
+EV04,ST243,Sports Day,Attended
+EV05,ST243,Orientation Day,Not Attended
+EV01,ST244,Hackathon,Attended
+EV02,ST244,Networking Mixer,Not Attended
+EV03,ST244,Guest Lecture,Attended
+EV04,ST244,Sports Day,Attended
+EV05,ST244,Orientation Day,Attended
+EV01,ST245,Hackathon,Not Attended
+EV02,ST245,Networking Mixer,Not Attended
+EV03,ST245,Guest Lecture,Attended
+EV04,ST245,Sports Day,Not Attended
+EV05,ST245,Orientation Day,Not Attended
+EV01,ST246,Hackathon,Attended
+EV02,ST246,Networking Mixer,Attended
+EV03,ST246,Guest Lecture,Not Attended
+EV04,ST246,Sports Day,Not Attended
+EV05,ST246,Orientation Day,Not Attended
+EV01,ST247,Hackathon,Not Attended
+EV02,ST247,Networking Mixer,Not Attended
+EV03,ST247,Guest Lecture,Not Attended
+EV04,ST247,Sports Day,Not Attended
+EV05,ST247,Orientation Day,Not Attended
+EV01,ST248,Hackathon,Attended
+EV02,ST248,Networking Mixer,Attended
+EV03,ST248,Guest Lecture,Attended
+EV04,ST248,Sports Day,Attended
+EV05,ST248,Orientation Day,Not Attended
+EV01,ST249,Hackathon,Not Attended
+EV02,ST249,Networking Mixer,Attended
+EV03,ST249,Guest Lecture,Not Attended
+EV04,ST249,Sports Day,Not Attended
+EV05,ST249,Orientation Day,Attended
+EV01,ST250,Hackathon,Not Attended
+EV02,ST250,Networking Mixer,Not Attended
+EV03,ST250,Guest Lecture,Attended
+EV04,ST250,Sports Day,Not Attended
+EV05,ST250,Orientation Day,Attended

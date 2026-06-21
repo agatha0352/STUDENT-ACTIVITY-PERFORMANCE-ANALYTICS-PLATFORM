@@ -1,0 +1,151 @@
+student_id,name,department,batch,login_score,course_score,webinar_score,offline_score,forum_score,mentor_score,activity_score,segment
+ST101,Jordan Carter,Computer Science,2025-A,16.5,15.625,12.5,8.0,5.1000000000000005,6.0,63.7,Moderately Active
+ST102,Autumn Fields,Data Science,2025-A,16.0,14.124999999999998,12.5,4.0,4.2,6.0,56.8,Moderately Active
+ST103,Makayla Watts,Marketing,2025-A,15.0,12.25,10.0,8.0,7.300000000000001,10.0,62.6,Moderately Active
+ST104,John Paul,Computer Science,2025-A,7.0,8.125,5.0,4.0,2.6,6.0,32.7,At Risk
+ST105,Linda Pearson,Marketing,2025-A,20.0,21.1875,15.0,16.0,6.7,10.0,88.9,Highly Active
+ST106,Laura Arnold,Marketing,2025-B,5.0,6.25,5.0,0.0,1.9000000000000004,4.0,22.2,At Risk
+ST107,John Castillo,Business,2025-A,12.5,19.5,12.5,12.0,6.2,6.0,68.7,Moderately Active
+ST108,Jennifer Wood,Design,2025-B,10.0,6.25,5.0,8.0,2.6,2.0,33.8,At Risk
+ST109,Dana Park,Business,2025-A,10.5,10.875,10.0,8.0,4.1,2.0,45.5,At Risk
+ST110,Crystal Conley,Business,2025-B,18.0,21.125,7.5,8.0,4.1,4.0,62.7,Moderately Active
+ST111,Eric Dean,Design,2026-A,20.0,17.416666666666668,10.0,8.0,6.1000000000000005,10.0,71.5,Moderately Active
+ST112,Randy Clayton,Computer Science,2026-A,3.0,8.625,2.5,8.0,1.1,0.0,23.2,At Risk
+ST113,Brandon Richardson,Marketing,2025-B,11.0,19.1875,15.0,12.0,4.0,4.0,65.2,Moderately Active
+ST114,Tiffany Frank,Computer Science,2025-A,11.0,10.5625,10.0,0.0,4.2,6.0,41.8,At Risk
+ST115,Brandon Nielsen,Computer Science,2025-A,4.5,7.916666666666666,0.0,0.0,1.9000000000000004,0.0,14.3,At Risk
+ST116,James Salinas,Business,2025-B,13.0,16.083333333333332,15.0,0.0,7.4,6.0,57.5,Moderately Active
+ST117,Jordan Phillips,Data Science,2025-B,9.5,4.0,7.5,0.0,3.0000000000000004,4.0,28.0,At Risk
+ST118,Tyler Johnson,Business,2026-A,12.5,9.0,10.0,12.0,5.800000000000001,8.0,57.3,Moderately Active
+ST119,Amber Johnson,Computer Science,2026-A,5.5,8.0,5.0,0.0,3.4000000000000004,2.0,23.9,At Risk
+ST120,Alan Flores,Data Science,2025-A,7.0,11.875,7.5,4.0,4.2,10.0,44.6,At Risk
+ST121,Paul Johnson,Marketing,2025-A,11.5,13.125,5.0,0.0,2.6,10.0,42.2,At Risk
+ST122,Jordan Anderson,Data Science,2025-A,17.5,23.0,10.0,12.0,6.2,4.0,72.7,Moderately Active
+ST123,Carrie Burns,Business,2025-A,7.0,3.375,5.0,4.0,2.8,0.0,22.2,At Risk
+ST124,Kristie Bell,Business,2025-A,18.0,12.666666666666664,5.0,4.0,5.200000000000001,8.0,52.9,Moderately Active
+ST125,Abigail Green,Design,2025-A,8.0,8.5,0.0,12.0,4.200000000000001,2.0,34.7,At Risk
+ST126,Dr. Margaret Lopez,Marketing,2026-A,5.5,8.25,7.5,4.0,3.7,0.0,29.0,At Risk
+ST127,Barbara Johnson,Design,2026-A,13.5,15.375,10.0,8.0,6.0,6.0,58.9,Moderately Active
+ST128,Stephen Lee,Data Science,2026-A,8.0,10.1875,5.0,8.0,4.200000000000001,2.0,37.4,At Risk
+ST129,Danny Barrera,Computer Science,2025-A,8.0,10.416666666666666,5.0,0.0,4.300000000000001,2.0,29.7,At Risk
+ST130,Jason Frazier,Design,2026-A,8.5,14.499999999999998,7.5,0.0,4.5,2.0,37.0,At Risk
+ST131,Kevin Mahoney,Marketing,2025-B,6.5,6.125,2.5,0.0,0.8999999999999999,0.0,16.0,At Risk
+ST132,Megan Walker,Computer Science,2026-A,8.5,8.625,5.0,4.0,3.8,4.0,33.9,At Risk
+ST133,Alexander Stone,Marketing,2025-B,17.5,13.125,10.0,4.0,2.8,4.0,51.4,Moderately Active
+ST134,Chad Ponce,Computer Science,2025-B,2.0,5.625,0.0,0.0,1.0,4.0,12.6,At Risk
+ST135,Michael Arnold,Computer Science,2026-A,3.0,6.0,0.0,4.0,1.4,2.0,16.4,At Risk
+ST136,John Larson,Marketing,2025-A,5.0,15.0,10.0,8.0,2.2,4.0,44.2,At Risk
+ST137,Steven Harvey,Business,2026-A,12.0,12.875,12.5,8.0,3.4000000000000004,4.0,52.8,Moderately Active
+ST138,Charles Cortez,Data Science,2025-B,18.5,21.375,12.5,12.0,7.6000000000000005,8.0,80.0,Highly Active
+ST139,Jim Nicholson,Marketing,2025-A,9.0,11.8125,12.5,4.0,3.8000000000000003,4.0,45.1,At Risk
+ST140,Jodi Valdez,Computer Science,2025-A,7.0,2.75,0.0,4.0,0.8,2.0,16.6,At Risk
+ST141,Margaret Patel,Data Science,2025-A,2.0,4.75,2.5,4.0,0.6000000000000001,2.0,15.8,At Risk
+ST142,James Walker,Computer Science,2025-A,7.0,9.125,5.0,16.0,4.3,6.0,47.4,At Risk
+ST143,Jennifer Ramos,Marketing,2025-A,20.0,20.083333333333332,15.0,20.0,7.300000000000001,10.0,92.4,Highly Active
+ST144,Joshua Wallace,Marketing,2025-A,2.0,2.25,2.5,0.0,1.5,0.0,8.2,At Risk
+ST145,David Robbins,Design,2025-A,7.5,12.375,10.0,8.0,2.5,0.0,40.4,At Risk
+ST146,Shannon Martinez,Data Science,2026-A,18.0,12.125,7.5,12.0,4.7,2.0,56.3,Moderately Active
+ST147,Robert Reeves,Business,2025-B,7.5,9.333333333333334,2.5,4.0,3.0,2.0,28.3,At Risk
+ST148,Jared Baker,Computer Science,2025-A,18.0,17.625,7.5,8.0,4.9,8.0,64.0,Moderately Active
+ST149,Samantha Anderson,Computer Science,2026-A,17.0,18.1875,7.5,16.0,5.7,2.0,66.4,Moderately Active
+ST150,Wendy Nelson,Data Science,2025-A,4.0,3.0,0.0,0.0,0.3,0.0,7.3,At Risk
+ST151,Jose Brady,Computer Science,2025-A,11.0,11.25,12.5,8.0,5.7,8.0,56.4,Moderately Active
+ST152,Anthony Ball,Business,2025-A,18.0,18.5,12.5,12.0,6.4,4.0,71.4,Moderately Active
+ST153,Jill Conner,Design,2025-A,9.0,7.75,7.5,4.0,2.9,2.0,33.2,At Risk
+ST154,Jeremy Norris,Marketing,2026-A,2.0,5.0,5.0,0.0,3.4000000000000004,4.0,19.4,At Risk
+ST155,Nathan Martin,Design,2025-A,15.5,18.25,12.5,16.0,5.6000000000000005,10.0,77.8,Moderately Active
+ST156,Joanna Davis,Design,2025-B,3.5,4.916666666666667,5.0,8.0,1.3,0.0,22.7,At Risk
+ST157,Scott Matthews,Computer Science,2026-A,10.0,7.000000000000001,2.5,0.0,3.1,4.0,26.6,At Risk
+ST158,Larry Thomas,Computer Science,2025-A,13.0,18.875,7.5,12.0,4.9,2.0,58.3,Moderately Active
+ST159,Kim Welch,Computer Science,2025-A,20.0,18.4375,5.0,12.0,6.0,6.0,67.4,Moderately Active
+ST160,Debra Harvey,Design,2025-A,20.0,18.5,7.5,8.0,4.6000000000000005,10.0,68.6,Moderately Active
+ST161,Cynthia Harris,Design,2025-A,7.0,5.25,2.5,0.0,2.9,4.0,21.6,At Risk
+ST162,John Stewart,Design,2026-A,18.5,22.9375,12.5,8.0,6.9,6.0,74.8,Moderately Active
+ST163,Gary Walker,Marketing,2025-A,8.0,14.625,10.0,4.0,2.9000000000000004,10.0,49.5,At Risk
+ST164,Scott Richardson,Data Science,2025-B,17.5,12.083333333333334,2.5,12.0,5.699999999999999,6.0,55.8,Moderately Active
+ST165,Christina Horne,Design,2025-A,8.5,10.625,2.5,8.0,3.2,4.0,36.8,At Risk
+ST166,Deanna Wilson,Design,2025-B,16.5,16.25,10.0,12.0,5.800000000000001,10.0,70.6,Moderately Active
+ST167,Kenneth Ayala,Business,2025-B,5.0,4.5,2.5,0.0,1.4000000000000001,0.0,13.4,At Risk
+ST168,Carrie Adams,Marketing,2026-A,3.0,3.0833333333333335,2.5,0.0,2.2,0.0,10.8,At Risk
+ST169,Sandra Boyd,Data Science,2025-B,15.5,19.916666666666668,7.5,12.0,9.1,8.0,72.0,Moderately Active
+ST170,Andrea Watkins,Marketing,2026-A,15.0,16.8125,5.0,0.0,5.300000000000001,2.0,44.1,At Risk
+ST171,Jacqueline Jackson,Business,2025-A,18.5,21.0,12.5,20.0,7.3,10.0,89.3,Highly Active
+ST172,Eric Cohen,Marketing,2026-A,17.0,14.75,7.5,12.0,5.4,10.0,66.6,Moderately Active
+ST173,Kristy Lewis,Computer Science,2025-A,10.0,9.25,5.0,4.0,1.5,2.0,31.8,At Risk
+ST174,Brian Hubbard,Data Science,2025-B,17.5,15.833333333333332,12.5,8.0,5.000000000000001,6.0,64.8,Moderately Active
+ST175,Ashley Sheppard,Data Science,2026-A,13.5,16.5,5.0,8.0,6.000000000000001,2.0,51.0,Moderately Active
+ST176,Adam West,Computer Science,2025-B,6.0,7.75,5.0,4.0,3.5,4.0,30.2,At Risk
+ST177,Brittany Myers,Marketing,2025-B,11.0,12.75,7.5,12.0,4.800000000000001,4.0,52.0,Moderately Active
+ST178,Brandon Lambert,Business,2025-A,6.5,4.333333333333333,2.5,8.0,2.9000000000000004,6.0,30.2,At Risk
+ST179,Karen Graham,Business,2025-B,12.5,22.125,10.0,20.0,8.4,2.0,75.0,Moderately Active
+ST180,Amy Martin,Computer Science,2025-B,20.0,20.0,15.0,16.0,8.1,10.0,89.1,Highly Active
+ST181,Edward Johnson,Computer Science,2025-A,20.0,22.583333333333332,10.0,20.0,7.1000000000000005,10.0,89.7,Highly Active
+ST182,Kathleen Summers,Business,2025-A,4.5,9.916666666666666,5.0,4.0,0.5,2.0,25.9,At Risk
+ST183,Chelsea Scott,Data Science,2025-B,15.5,19.25,7.5,0.0,2.8,10.0,55.0,Moderately Active
+ST184,Katelyn Edwards,Marketing,2026-A,14.5,23.8125,15.0,16.0,5.2,8.0,82.5,Highly Active
+ST185,Travis Nelson,Marketing,2025-A,9.5,9.6875,2.5,8.0,2.5,4.0,36.2,At Risk
+ST186,Bethany Davidson,Business,2026-A,16.0,17.166666666666668,7.5,8.0,6.000000000000001,4.0,58.7,Moderately Active
+ST187,Rodney Guzman,Business,2025-A,6.0,6.5,5.0,4.0,2.0,2.0,25.5,At Risk
+ST188,Brian Knapp,Marketing,2025-A,14.0,7.875,2.5,8.0,4.9,8.0,45.3,At Risk
+ST189,Michelle Herring,Data Science,2026-A,9.5,11.333333333333334,10.0,4.0,5.4,0.0,40.2,At Risk
+ST190,Julian Reed,Business,2026-A,7.5,11.583333333333334,5.0,16.0,3.4000000000000004,6.0,49.5,At Risk
+ST191,Tracey Benitez,Computer Science,2026-A,14.5,15.666666666666664,10.0,8.0,4.4,10.0,62.6,Moderately Active
+ST192,Shelley Buckley,Computer Science,2025-A,8.5,13.25,7.5,4.0,4.3,4.0,41.6,At Risk
+ST193,Deanna Savage,Business,2025-A,14.5,17.75,7.5,12.0,4.300000000000001,4.0,60.0,Moderately Active
+ST194,Kayla Sheppard,Design,2026-A,9.5,15.125,7.5,12.0,4.6,2.0,50.7,Moderately Active
+ST195,Kevin Jacobson,Data Science,2026-A,4.5,3.0,2.5,4.0,0.8,0.0,14.8,At Risk
+ST196,Alexandria Torres,Marketing,2026-A,10.0,12.5,7.5,8.0,4.1,4.0,46.1,At Risk
+ST197,Angela Williams,Computer Science,2025-B,17.0,18.0625,10.0,12.0,5.6000000000000005,6.0,68.7,Moderately Active
+ST198,Kathleen Thomas,Business,2025-A,20.0,16.875,10.0,4.0,5.3,6.0,62.2,Moderately Active
+ST199,Jonathan Castro,Computer Science,2025-B,10.0,14.9375,10.0,8.0,5.8,8.0,56.7,Moderately Active
+ST200,Katie Stewart,Marketing,2026-A,11.5,17.375,10.0,16.0,5.1000000000000005,6.0,66.0,Moderately Active
+ST201,Sarah Grimes,Data Science,2025-A,6.5,8.1875,2.5,12.0,3.5,2.0,34.7,At Risk
+ST202,Mary Coleman,Data Science,2026-A,12.0,9.75,5.0,12.0,2.4000000000000004,0.0,41.2,At Risk
+ST203,Michael Villarreal,Data Science,2025-B,10.5,11.4375,2.5,12.0,3.1000000000000005,2.0,41.5,At Risk
+ST204,Michael Johnson,Computer Science,2025-B,9.0,18.416666666666668,5.0,12.0,5.4,6.0,55.8,Moderately Active
+ST205,Jordan Thompson,Data Science,2025-A,10.5,13.25,12.5,12.0,6.4,6.0,60.6,Moderately Active
+ST206,Samantha Boyd,Business,2025-B,14.5,17.1875,7.5,16.0,3.6000000000000005,4.0,62.8,Moderately Active
+ST207,Stephanie Boyer,Data Science,2025-A,5.0,11.25,7.5,4.0,3.0,2.0,32.8,At Risk
+ST208,Paige King,Business,2025-B,11.5,15.437500000000002,10.0,12.0,6.6000000000000005,6.0,61.5,Moderately Active
+ST209,Matthew Allen,Business,2026-A,14.0,11.125,2.5,0.0,4.1,8.0,39.7,At Risk
+ST210,Miguel Salazar,Marketing,2025-B,15.0,18.916666666666668,12.5,8.0,6.9,10.0,71.3,Moderately Active
+ST211,Sandra Mcbride,Business,2025-A,20.0,21.416666666666668,15.0,16.0,4.3,8.0,84.7,Highly Active
+ST212,Cesar Patel,Computer Science,2025-A,3.0,3.6249999999999996,0.0,4.0,0.8,2.0,13.4,At Risk
+ST213,Angel Ortiz,Business,2025-B,6.0,9.0,5.0,4.0,2.1000000000000005,6.0,32.1,At Risk
+ST214,Wanda Palmer,Computer Science,2025-B,5.5,6.6875,5.0,4.0,1.9000000000000004,6.0,29.1,At Risk
+ST215,Daniel Bell,Business,2025-A,2.0,4.416666666666667,2.5,4.0,0.5,0.0,13.4,At Risk
+ST216,Shelly Lopez,Marketing,2026-A,17.5,18.1875,15.0,16.0,7.1000000000000005,10.0,83.8,Highly Active
+ST217,Jill Nunez,Data Science,2025-B,18.0,17.583333333333332,12.5,12.0,7.000000000000001,4.0,71.1,Moderately Active
+ST218,John Gomez,Business,2026-A,12.5,17.625,12.5,12.0,3.8000000000000003,6.0,64.4,Moderately Active
+ST219,Adrienne Lucas DVM,Business,2026-A,10.0,14.833333333333334,5.0,12.0,4.5,6.0,52.3,Moderately Active
+ST220,Joseph Eaton,Business,2025-B,15.0,11.625,15.0,8.0,5.1000000000000005,4.0,58.7,Moderately Active
+ST221,Tina Morse,Data Science,2025-A,20.0,23.4375,10.0,20.0,4.8,4.0,82.2,Highly Active
+ST222,Joe Jones,Data Science,2026-A,9.0,11.9375,7.5,0.0,2.9000000000000004,4.0,35.3,At Risk
+ST223,Jordan Barnes,Marketing,2025-A,4.0,6.937500000000001,10.0,4.0,1.2000000000000002,0.0,26.1,At Risk
+ST224,John Hobbs,Design,2026-A,9.5,16.416666666666668,12.5,12.0,6.4,2.0,58.8,Moderately Active
+ST225,Anthony Cunningham,Design,2025-B,13.5,15.187500000000002,15.0,12.0,3.2,4.0,62.9,Moderately Active
+ST226,Penny Rodriguez MD,Marketing,2025-B,3.5,4.25,2.5,0.0,1.9,0.0,12.2,At Risk
+ST227,Kristin Lee DDS,Data Science,2026-A,7.5,8.666666666666666,7.5,4.0,2.9000000000000004,6.0,36.6,At Risk
+ST228,Beth Sandoval,Marketing,2025-B,14.5,13.125,5.0,8.0,5.3,4.0,49.9,At Risk
+ST229,Patrick Roberts,Business,2025-A,20.0,20.416666666666668,15.0,12.0,8.3,10.0,85.7,Highly Active
+ST230,Angela Curtis,Computer Science,2025-A,7.0,8.75,2.5,4.0,3.8000000000000003,2.0,28.0,At Risk
+ST231,Jason Olsen,Marketing,2025-A,4.0,8.3125,2.5,4.0,3.5,2.0,24.3,At Risk
+ST232,Tyler Gray,Marketing,2025-A,16.0,22.0,15.0,4.0,7.300000000000001,10.0,74.3,Moderately Active
+ST233,Kelly Guzman,Design,2025-B,6.5,8.166666666666666,7.5,8.0,1.0,4.0,35.2,At Risk
+ST234,Cynthia Walker,Computer Science,2025-A,4.5,3.125,0.0,0.0,1.2,2.0,10.8,At Risk
+ST235,Michelle Brown,Data Science,2026-A,14.0,11.833333333333334,2.5,8.0,5.0,10.0,51.3,Moderately Active
+ST236,Andrew Lee,Marketing,2025-A,14.5,11.0,7.5,8.0,5.300000000000001,4.0,50.3,Moderately Active
+ST237,Cathy Nelson,Design,2025-A,15.5,15.375,12.5,12.0,5.700000000000001,4.0,65.1,Moderately Active
+ST238,William Campbell,Marketing,2026-A,17.5,15.937499999999998,7.5,4.0,6.700000000000001,6.0,57.6,Moderately Active
+ST239,Sarah Martin,Marketing,2026-A,8.5,16.5625,15.0,8.0,5.1000000000000005,8.0,61.2,Moderately Active
+ST240,Dennis Mccoy,Marketing,2025-B,14.5,15.937499999999998,12.5,12.0,3.8000000000000007,8.0,66.7,Moderately Active
+ST241,Sarah Gutierrez,Design,2025-B,7.0,15.0,2.5,12.0,3.1000000000000005,2.0,41.6,At Risk
+ST242,Steven Flowers,Business,2026-A,8.5,9.5,5.0,8.0,2.0,4.0,37.0,At Risk
+ST243,Howard Galvan,Business,2025-B,3.5,2.5625,5.0,8.0,0.0,2.0,21.1,At Risk
+ST244,Tammy Saunders,Data Science,2025-B,12.0,17.833333333333332,10.0,16.0,5.4,6.0,67.2,Moderately Active
+ST245,Allison Hartman,Computer Science,2025-A,11.5,13.125,7.5,4.0,5.5,4.0,45.6,At Risk
+ST246,Kara Parker,Data Science,2026-A,4.5,8.375,2.5,8.0,2.5,0.0,25.9,At Risk
+ST247,Samantha Lee,Design,2025-B,2.5,2.0,2.5,0.0,1.3,2.0,10.3,At Risk
+ST248,Rodney Brown,Computer Science,2025-A,14.0,15.25,10.0,16.0,3.7,4.0,63.0,Moderately Active
+ST249,Robert Brooks,Marketing,2026-A,20.0,19.333333333333332,10.0,8.0,4.800000000000001,6.0,68.1,Moderately Active
+ST250,Dana Edwards,Design,2025-B,18.0,14.1875,10.0,8.0,3.9000000000000004,4.0,58.1,Moderately Active

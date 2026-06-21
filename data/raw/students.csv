@@ -1,0 +1,151 @@
+student_id,name,college,department,batch,enrollment_status
+ST101,Jordan Carter,Summit University,Computer Science,2025-A,Active
+ST102,Autumn Fields,Riverdale Institute,Data Science,2025-A,Active
+ST103,Makayla Watts,Summit University,Marketing,2025-A,Active
+ST104,John Paul,Riverdale Institute,Computer Science,2025-A,Active
+ST105,Linda Pearson,Summit University,Marketing,2025-A,Active
+ST106,Laura Arnold,Summit University,Marketing,2025-B,Active
+ST107,John Castillo,Summit University,Business,2025-A,Active
+ST108,Jennifer Wood,Riverdale Institute,Design,2025-B,Active
+ST109,Dana Park,Riverdale Institute,Business,2025-A,Active
+ST110,Crystal Conley,Riverdale Institute,Business,2025-B,Active
+ST111,Eric Dean,Riverdale Institute,Design,2026-A,Active
+ST112,Randy Clayton,Northgate College,Computer Science,2026-A,Active
+ST113,Brandon Richardson,Summit University,Marketing,2025-B,Active
+ST114,Tiffany Frank,Summit University,Computer Science,2025-A,Active
+ST115,Brandon Nielsen,Northgate College,Computer Science,2025-A,Active
+ST116,James Salinas,Northgate College,Business,2025-B,Active
+ST117,Jordan Phillips,Northgate College,Data Science,2025-B,Active
+ST118,Tyler Johnson,Summit University,Business,2026-A,Active
+ST119,Amber Johnson,Summit University,Computer Science,2026-A,Active
+ST120,Alan Flores,Summit University,Data Science,2025-A,Active
+ST121,Paul Johnson,Northgate College,Marketing,2025-A,Active
+ST122,Jordan Anderson,Riverdale Institute,Data Science,2025-A,Active
+ST123,Carrie Burns,Northgate College,Business,2025-A,Active
+ST124,Kristie Bell,Summit University,Business,2025-A,Active
+ST125,Abigail Green,Northgate College,Design,2025-A,Active
+ST126,Dr. Margaret Lopez,Riverdale Institute,Marketing,2026-A,Active
+ST127,Barbara Johnson,Summit University,Design,2026-A,Active
+ST128,Stephen Lee,Riverdale Institute,Data Science,2026-A,Active
+ST129,Danny Barrera,Riverdale Institute,Computer Science,2025-A,Active
+ST130,Jason Frazier,Summit University,Design,2026-A,Active
+ST131,Kevin Mahoney,Northgate College,Marketing,2025-B,Active
+ST132,Megan Walker,Summit University,Computer Science,2026-A,Active
+ST133,Alexander Stone,Summit University,Marketing,2025-B,Active
+ST134,Chad Ponce,Northgate College,Computer Science,2025-B,Active
+ST135,Michael Arnold,Northgate College,Computer Science,2026-A,Active
+ST136,John Larson,Northgate College,Marketing,2025-A,Active
+ST137,Steven Harvey,Riverdale Institute,Business,2026-A,Active
+ST138,Charles Cortez,Riverdale Institute,Data Science,2025-B,Active
+ST139,Jim Nicholson,Summit University,Marketing,2025-A,Active
+ST140,Jodi Valdez,Northgate College,Computer Science,2025-A,Active
+ST141,Margaret Patel,Northgate College,Data Science,2025-A,Active
+ST142,James Walker,Summit University,Computer Science,2025-A,Active
+ST143,Jennifer Ramos,Riverdale Institute,Marketing,2025-A,Active
+ST144,Joshua Wallace,Northgate College,Marketing,2025-A,Active
+ST145,David Robbins,Summit University,Design,2025-A,Active
+ST146,Shannon Martinez,Summit University,Data Science,2026-A,Active
+ST147,Robert Reeves,Summit University,Business,2025-B,Active
+ST148,Jared Baker,Northgate College,Computer Science,2025-A,Active
+ST149,Samantha Anderson,Northgate College,Computer Science,2026-A,Active
+ST150,Wendy Nelson,Summit University,Data Science,2025-A,Active
+ST151,Jose Brady,Summit University,Computer Science,2025-A,Active
+ST152,Anthony Ball,Riverdale Institute,Business,2025-A,Active
+ST153,Jill Conner,Northgate College,Design,2025-A,Active
+ST154,Jeremy Norris,Summit University,Marketing,2026-A,Active
+ST155,Nathan Martin,Northgate College,Design,2025-A,Active
+ST156,Joanna Davis,Summit University,Design,2025-B,Active
+ST157,Scott Matthews,Northgate College,Computer Science,2026-A,Active
+ST158,Larry Thomas,Summit University,Computer Science,2025-A,Active
+ST159,Kim Welch,Northgate College,Computer Science,2025-A,Active
+ST160,Debra Harvey,Summit University,Design,2025-A,Active
+ST161,Cynthia Harris,Northgate College,Design,2025-A,Active
+ST162,John Stewart,Riverdale Institute,Design,2026-A,Active
+ST163,Gary Walker,Summit University,Marketing,2025-A,Active
+ST164,Scott Richardson,Riverdale Institute,Data Science,2025-B,Active
+ST165,Christina Horne,Riverdale Institute,Design,2025-A,Active
+ST166,Deanna Wilson,Riverdale Institute,Design,2025-B,Active
+ST167,Kenneth Ayala,Northgate College,Business,2025-B,Active
+ST168,Carrie Adams,Summit University,Marketing,2026-A,Active
+ST169,Sandra Boyd,Riverdale Institute,Data Science,2025-B,Active
+ST170,Andrea Watkins,Riverdale Institute,Marketing,2026-A,Active
+ST171,Jacqueline Jackson,Summit University,Business,2025-A,Active
+ST172,Eric Cohen,Northgate College,Marketing,2026-A,Active
+ST173,Kristy Lewis,Summit University,Computer Science,2025-A,Active
+ST174,Brian Hubbard,Riverdale Institute,Data Science,2025-B,Active
+ST175,Ashley Sheppard,Summit University,Data Science,2026-A,Active
+ST176,Adam West,Summit University,Computer Science,2025-B,Active
+ST177,Brittany Myers,Summit University,Marketing,2025-B,Active
+ST178,Brandon Lambert,Riverdale Institute,Business,2025-A,Active
+ST179,Karen Graham,Riverdale Institute,Business,2025-B,Active
+ST180,Amy Martin,Riverdale Institute,Computer Science,2025-B,Active
+ST181,Edward Johnson,Summit University,Computer Science,2025-A,Active
+ST182,Kathleen Summers,Summit University,Business,2025-A,Active
+ST183,Chelsea Scott,Riverdale Institute,Data Science,2025-B,Active
+ST184,Katelyn Edwards,Northgate College,Marketing,2026-A,Active
+ST185,Travis Nelson,Summit University,Marketing,2025-A,Active
+ST186,Bethany Davidson,Summit University,Business,2026-A,Active
+ST187,Rodney Guzman,Riverdale Institute,Business,2025-A,Active
+ST188,Brian Knapp,Summit University,Marketing,2025-A,Active
+ST189,Michelle Herring,Summit University,Data Science,2026-A,Active
+ST190,Julian Reed,Summit University,Business,2026-A,Active
+ST191,Tracey Benitez,Riverdale Institute,Computer Science,2026-A,Active
+ST192,Shelley Buckley,Northgate College,Computer Science,2025-A,Active
+ST193,Deanna Savage,Riverdale Institute,Business,2025-A,Active
+ST194,Kayla Sheppard,Summit University,Design,2026-A,Inactive
+ST195,Kevin Jacobson,Riverdale Institute,Data Science,2026-A,Inactive
+ST196,Alexandria Torres,Northgate College,Marketing,2026-A,Active
+ST197,Angela Williams,Riverdale Institute,Computer Science,2025-B,Active
+ST198,Kathleen Thomas,Riverdale Institute,Business,2025-A,Active
+ST199,Jonathan Castro,Summit University,Computer Science,2025-B,Active
+ST200,Katie Stewart,Northgate College,Marketing,2026-A,Active
+ST201,Sarah Grimes,Riverdale Institute,Data Science,2025-A,Active
+ST202,Mary Coleman,Riverdale Institute,Data Science,2026-A,Active
+ST203,Michael Villarreal,Northgate College,Data Science,2025-B,Active
+ST204,Michael Johnson,Summit University,Computer Science,2025-B,Active
+ST205,Jordan Thompson,Northgate College,Data Science,2025-A,Active
+ST206,Samantha Boyd,Northgate College,Business,2025-B,Active
+ST207,Stephanie Boyer,Riverdale Institute,Data Science,2025-A,Active
+ST208,Paige King,Northgate College,Business,2025-B,Active
+ST209,Matthew Allen,Northgate College,Business,2026-A,Active
+ST210,Miguel Salazar,Summit University,Marketing,2025-B,Active
+ST211,Sandra Mcbride,Riverdale Institute,Business,2025-A,Active
+ST212,Cesar Patel,Northgate College,Computer Science,2025-A,Active
+ST213,Angel Ortiz,Northgate College,Business,2025-B,Active
+ST214,Wanda Palmer,Summit University,Computer Science,2025-B,Active
+ST215,Daniel Bell,Riverdale Institute,Business,2025-A,Active
+ST216,Shelly Lopez,Riverdale Institute,Marketing,2026-A,Active
+ST217,Jill Nunez,Summit University,Data Science,2025-B,Active
+ST218,John Gomez,Summit University,Business,2026-A,Active
+ST219,Adrienne Lucas DVM,Riverdale Institute,Business,2026-A,Active
+ST220,Joseph Eaton,Northgate College,Business,2025-B,Active
+ST221,Tina Morse,Summit University,Data Science,2025-A,Active
+ST222,Joe Jones,Northgate College,Data Science,2026-A,Active
+ST223,Jordan Barnes,Northgate College,Marketing,2025-A,Active
+ST224,John Hobbs,Riverdale Institute,Design,2026-A,Active
+ST225,Anthony Cunningham,Northgate College,Design,2025-B,Active
+ST226,Penny Rodriguez MD,Riverdale Institute,Marketing,2025-B,Active
+ST227,Kristin Lee DDS,Summit University,Data Science,2026-A,Active
+ST228,Beth Sandoval,Summit University,Marketing,2025-B,Active
+ST229,Patrick Roberts,Riverdale Institute,Business,2025-A,Active
+ST230,Angela Curtis,Riverdale Institute,Computer Science,2025-A,Active
+ST231,Jason Olsen,Northgate College,Marketing,2025-A,Active
+ST232,Tyler Gray,Summit University,Marketing,2025-A,Active
+ST233,Kelly Guzman,Northgate College,Design,2025-B,Active
+ST234,Cynthia Walker,Summit University,Computer Science,2025-A,Active
+ST235,Michelle Brown,Riverdale Institute,Data Science,2026-A,Active
+ST236,Andrew Lee,Riverdale Institute,Marketing,2025-A,Active
+ST237,Cathy Nelson,Riverdale Institute,Design,2025-A,Active
+ST238,William Campbell,Summit University,Marketing,2026-A,Active
+ST239,Sarah Martin,Northgate College,Marketing,2026-A,Active
+ST240,Dennis Mccoy,Northgate College,Marketing,2025-B,Active
+ST241,Sarah Gutierrez,Summit University,Design,2025-B,Active
+ST242,Steven Flowers,Riverdale Institute,Business,2026-A,Active
+ST243,Howard Galvan,Riverdale Institute,Business,2025-B,Active
+ST244,Tammy Saunders,Northgate College,Data Science,2025-B,Active
+ST245,Allison Hartman,Summit University,Computer Science,2025-A,Active
+ST246,Kara Parker,Northgate College,Data Science,2026-A,Active
+ST247,Samantha Lee,Northgate College,Design,2025-B,Active
+ST248,Rodney Brown,Northgate College,Computer Science,2025-A,Active
+ST249,Robert Brooks,Northgate College,Marketing,2026-A,Inactive
+ST250,Dana Edwards,Summit University,Design,2025-B,Inactive
